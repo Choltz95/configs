@@ -1,0 +1,58 @@
+sw_volume: 55
+audio_device_state:1:main
+state: pause
+current: 1
+time: 12
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: nan
+playlist_begin
+0:00 Anthonio.mp3
+1:Desire/II/05 Under Your Spell.mp3
+2:Paramore/Paramore/06 Ain't It Fun.mp3
+3:Lights/Siberia/03 Lights - Toes.mp3
+4:Lights/Little Machines/06 Muscle Memory.mp3
+5:Lights/Siberia/11 Lights - Flux and Flow.mp3
+6:Kaskade/Fire & Ice/1-10 Kaskade feat. Skylar Grey - Room for Happiness.mp3
+7:Kavinsky/OutRun/08 Kavinsky feat. Lovefoxxx - Nightcall.mp3
+8:Darren Korb/Transistor Original Soundtrack Extended/01 Old Friends (Hummed).mp3
+9:Lights/Siberia/01 Lights - Siberia.mp3
+10:Lights/Siberia/02 Lights - Where the Fence Is Low.mp3
+11:Lights/Siberia/03 Lights - Toes.mp3
+12:Lights/Siberia/04 Lights - Banner.mp3
+13:Lights/Siberia/06 Lights - Heavy Rope.mp3
+14:Lights/Siberia/07 Lights - Timing Is Everything.mp3
+15:Lights/Siberia/08 Lights - Peace Sign.mp3
+16:Lights/Siberia/09 Lights - Cactus in the Valley.mp3
+17:Lights/Siberia/10 Lights - Suspension.mp3
+18:Lights/Siberia/11 Lights - Flux and Flow.mp3
+19:Lights/Siberia/12 Lights - Fourth Dimension.mp3
+20:Lights/Siberia/13 Lights - And Counting....mp3
+21:Lights/Siberia/14 Lights - Day One.mp3
+22:Ellie Goulding/Halcyon/14 Ellie Goulding - Lights.mp3
+23:Lights/Siberia/08 Lights - Peace Sign.mp3
+24:Ellie Goulding/Halcyon/01 Ellie Goulding - Don't Say a Word.mp3
+25:Ellie Goulding/Bright Lights/06 Every Time You Go.mp3
+26:Paramore/Paramore/14 (One of Those) Crazy Girls.mp3
+27:Kaskade/It's You, It's Me/09 Tonight.mp3
+28:Desire/II/04 Dans mes rêves.mp3
+29:Kavinsky/OutRun/02 Kavinsky - Blizzard.mp3
+30:Paramore/RIOT!/02 That's What You Get.mp3
+31:Kaskade/It's You, It's Me/07 It's You, It's Me.mp3
+32:Lights/Siberia (Acoustic)/04 Siberia (feat. Max Kerman of Arkells) (acoustic).mp3
+33:Paramore/Paramore/10 Anklebiters.mp3
+34:Lights/Siberia/06 Lights - Heavy Rope.mp3
+35:Lights/Siberia (Acoustic)/10 ...And Counting (acoustic).mp3
+36:Kaskade/Dynasty/10 Kaskade feat. Haley - Don't Wait.mp3
+37:Kaskade/Dynasty/02 Kaskade with EDX feat. Haley - Don't Stop Dancing.mp3
+38:Darren Korb/Transistor Original Soundtrack Extended/23 V_n_sh_ng P__nt.mp3
+39:Kaskade/Love Mysterious/07 Sometimes.mp3
+40:Lights/The Listening/12 Quiet.mp3
+41:Lights/Siberia/07 Lights - Timing Is Everything.mp3
+42:Ellie Goulding/Halcyon/02 Ellie Goulding - My Blood.mp3
+43:Kaskade/Love Mysterious/06 Fake.mp3
+playlist_end

@@ -1,0 +1,5667 @@
+info_begin
+format: 1
+mpd_version: 0.16.7
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Annie
+mtime: 1420256698
+begin: Annie
+directory: Anniemal
+mtime: 1420256718
+begin: Annie/Anniemal
+song_begin: 01 Intro.mp3
+Time: 55
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Intro
+Album: Anniemal
+Track: 1/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: db99859f-85aa-4544-861a-0edcb9c145dc
+mtime: 1420256708
+song_end
+song_begin: 02 Chewing Gum.mp3
+Time: 237
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Chewing Gum
+Album: Anniemal
+Track: 2/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: 6bffd070-3574-4476-afd5-2f905985cc23
+mtime: 1420256698
+song_end
+song_begin: 03 Always Too Late.mp3
+Time: 257
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Always Too Late
+Album: Anniemal
+Track: 3/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: dab92599-36c8-43ae-a909-3fe80dc9410d
+mtime: 1420256702
+song_end
+song_begin: 04 Me Plus One.mp3
+Time: 219
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Me Plus One
+Album: Anniemal
+Track: 4/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: 2f0130b4-f2b6-486e-8e33-fd7c935b9fd1
+mtime: 1420256718
+song_end
+song_begin: 05 Heartbeat.mp3
+Time: 186
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Heartbeat
+Album: Anniemal
+Track: 5/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: 5d603a8f-b328-4558-b316-fb575c39835c
+mtime: 1420256718
+song_end
+song_begin: 06 Helpless Fool for Love.mp3
+Time: 238
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Helpless Fool for Love
+Album: Anniemal
+Track: 6/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: 305c2851-23c7-47ee-afc5-268234c44867
+mtime: 1420256717
+song_end
+song_begin: 07 Anniemal.mp3
+Time: 215
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Anniemal
+Album: Anniemal
+Track: 7/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: db0c2f3d-64c6-48fd-976d-3431ac73c5f0
+mtime: 1420256698
+song_end
+song_begin: 08 No Easy Love.mp3
+Time: 242
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: No Easy Love
+Album: Anniemal
+Track: 8/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: bdd0b5cc-a4e9-46f4-b21d-16370af3446e
+mtime: 1420256712
+song_end
+song_begin: 09 Happy Without You.mp3
+Time: 197
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Happy Without You
+Album: Anniemal
+Track: 9/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: cf18f7b3-37b6-472d-8fa0-66b265f83f4c
+mtime: 1420256705
+song_end
+song_begin: 10 Greatest Hit.mp3
+Time: 220
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Greatest Hit
+Album: Anniemal
+Track: 10/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: f5b8a431-e0db-4c59-9df9-01fe1d31003c
+mtime: 1420256715
+song_end
+song_begin: 11 Come Together.mp3
+Time: 469
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Come Together
+Album: Anniemal
+Track: 11/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: 7559c37d-8067-4617-b3f3-7d8e8f6e12fa
+mtime: 1420256717
+song_end
+song_begin: 12 My Best Friend.mp3
+Time: 237
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: My Best Friend
+Album: Anniemal
+Track: 12/12
+Date: 2004-09-28
+Genre: Unknown
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 86ea17b7-61d4-4a1c-826b-564d21e5a598
+MUSICBRAINZ_TRACKID: ab1f125a-ef84-41e4-9c2b-50b31e01329e
+mtime: 1420256718
+song_end
+end: Annie/Anniemal
+directory: Don't Stop
+mtime: 1420256719
+begin: Annie/Don't Stop
+song_begin: 1-01 Hey Annie.mp3
+Time: 248
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Hey Annie
+Album: Don't Stop
+Track: 1/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 13aaa95d-a616-4530-9d04-5510a6558388
+mtime: 1420256698
+song_end
+song_begin: 1-02 My Love Is Better.mp3
+Time: 199
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: My Love Is Better
+Album: Don't Stop
+Track: 2/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 47ec77ee-96f7-4052-bd42-596f036d89c2
+mtime: 1420256703
+song_end
+song_begin: 1-03 Bad Times.mp3
+Time: 237
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Bad Times
+Album: Don't Stop
+Track: 3/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 036c1d19-a4e8-4887-bf0b-640ac5789e8b
+mtime: 1420256713
+song_end
+song_begin: 1-04 Don't Stop.mp3
+Time: 250
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Don't Stop
+Album: Don't Stop
+Track: 4/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 42d80649-36a4-466e-9a44-4dfdfba5ddac
+mtime: 1420256701
+song_end
+song_begin: 1-05 I Don't Like Your Band.mp3
+Time: 205
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: I Don't Like Your Band
+Album: Don't Stop
+Track: 5/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: afec756c-ab76-4377-83ee-08731b106bce
+mtime: 1420256699
+song_end
+song_begin: 1-06 Songs Remind Me of You.mp3
+Time: 246
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Songs Remind Me of You
+Album: Don't Stop
+Track: 6/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 71ce8dd5-209d-415b-a539-4b7654d2de7c
+mtime: 1420256719
+song_end
+song_begin: 1-07 Marie Cherie.mp3
+Time: 315
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Marie Cherie
+Album: Don't Stop
+Track: 7/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: ae174865-3d96-4e62-b284-7b327f6a364c
+mtime: 1420256713
+song_end
+song_begin: 1-08 Take You Home.mp3
+Time: 266
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Take You Home
+Album: Don't Stop
+Track: 8/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 6176413a-0e77-4360-807e-ac03c70a2f1d
+mtime: 1420256714
+song_end
+song_begin: 1-09 The Breakfast Song.mp3
+Time: 190
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: The Breakfast Song
+Album: Don't Stop
+Track: 9/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 5e60d12d-6623-4dff-b15a-5b4258664a04
+mtime: 1420256709
+song_end
+song_begin: 1-10 Loco.mp3
+Time: 193
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Loco
+Album: Don't Stop
+Track: 10/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 3ae03d18-c269-43b3-95e7-6517cd3f0054
+mtime: 1420256703
+song_end
+song_begin: 1-11 When the Night.mp3
+Time: 211
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: When the Night
+Album: Don't Stop
+Track: 11/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 9f05bdeb-7e2b-43ad-ad5e-9e9b47cafed0
+mtime: 1420256700
+song_end
+song_begin: 1-12 Heaven and Hell.mp3
+Time: 202
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Heaven and Hell
+Album: Don't Stop
+Track: 12/12
+Date: 2009-10-19
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 063ed6a0-2d3c-4675-926f-6a443f9cad0e
+mtime: 1420256698
+song_end
+song_begin: 2-01 All Night.mp3
+Time: 254
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: All Night
+Album: Don't Stop
+Track: 1/5
+Date: 2009-10-19
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 2afedd3f-605b-4597-8d2a-c3475f8cd20f
+mtime: 1420256698
+song_end
+song_begin: 2-02 I Know Ur Girlfriend Hates Me.mp3
+Time: 186
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: I Know Ur Girlfriend Hates Me
+Album: Don't Stop
+Track: 2/5
+Date: 2009-10-19
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 0ef36ec7-8130-4d06-bf88-851738728467
+mtime: 1420256704
+song_end
+song_begin: 2-03 Anthonio.mp3
+Time: 201
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Anthonio
+Album: Don't Stop
+Track: 3/5
+Date: 2009-10-19
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: f306187c-93f1-4ca9-b782-faaeecb22ac6
+mtime: 1420256713
+song_end
+song_begin: 2-04 I Can't Let Go.mp3
+Time: 223
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: I Can't Let Go
+Album: Don't Stop
+Track: 4/5
+Date: 2009-10-19
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: 00c8cb58-6e0c-41af-a5e1-2835accd7495
+mtime: 1420256711
+song_end
+song_begin: 2-05 Sweet.mp3
+Time: 171
+Artist: Annie
+AlbumArtist: Annie
+ArtistSort: Annie
+AlbumArtistSort: Annie
+Title: Sweet
+Album: Don't Stop
+Track: 5/5
+Date: 2009-10-19
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ARTISTID: 2a9ea5bf-fc08-4fbc-ab73-17afa7906a52
+MUSICBRAINZ_ALBUMID: 335cf9d4-699a-3352-bbf7-7990e87181ba
+MUSICBRAINZ_TRACKID: c733094e-ffb5-4d30-8c8f-55c9186adb5e
+mtime: 1420256708
+song_end
+end: Annie/Don't Stop
+end: Annie
+directory: Darren Korb
+mtime: 1420256698
+begin: Darren Korb
+directory: Transistor Original Soundtrack Extended
+mtime: 1420256717
+begin: Darren Korb/Transistor Original Soundtrack Extended
+song_begin: 01 Old Friends (Hummed).mp3
+Time: 202
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Old Friends (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 1/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: ea182d52-ab8a-4392-bd6a-580ecedb7364
+mtime: 1420256699
+song_end
+song_begin: 02 Stained Glass (Hummed).mp3
+Time: 141
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Stained Glass (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 2/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 2a6826e6-9b56-4b1e-bf8a-71adb1ebcf92
+mtime: 1420256717
+song_end
+song_begin: 03 Forecast (Hummed).mp3
+Time: 160
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Forecast (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 3/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 5fabe109-aa87-4a25-acf4-cbf87d8c05ea
+mtime: 1420256708
+song_end
+song_begin: 04 The Spine (Instrumental).mp3
+Time: 194
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: The Spine (Instrumental)
+Album: Transistor Original Soundtrack Extended
+Track: 4/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 362a3722-3766-4581-b0b9-82970c13fd54
+mtime: 1420256699
+song_end
+song_begin: 05 Coasting (Hummed).mp3
+Time: 278
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Coasting (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 5/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: cdca31ab-f407-4922-bc4c-7a5733c95346
+mtime: 1420256703
+song_end
+song_begin: 06 Vanishing Point (Hummed).mp3
+Time: 292
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Vanishing Point (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 6/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 478f6789-371f-49cc-acd5-c9bc64532da1
+mtime: 1420256702
+song_end
+song_begin: 07 Traces (Hummed).mp3
+Time: 122
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Traces (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 7/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: fbaa1959-6dc9-4c1d-905f-3226df30626e
+mtime: 1420256704
+song_end
+song_begin: 08 Water Wall (Hummed).mp3
+Time: 234
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Water Wall (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 8/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 8d983acf-bf61-40f4-8f78-083293622347
+mtime: 1420256698
+song_end
+song_begin: 09 In Circles (Instrumental).mp3
+Time: 204
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: In Circles (Instrumental)
+Album: Transistor Original Soundtrack Extended
+Track: 9/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 0736a3db-e65d-448b-9cb9-69c8490e6fc7
+mtime: 1420256702
+song_end
+song_begin: 10 Gold Leaf (Hummed).mp3
+Time: 163
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Gold Leaf (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 10/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 828b6961-ac82-49bc-930e-4bc80b449f4d
+mtime: 1420256708
+song_end
+song_begin: 11 Heightmap (Hummed).mp3
+Time: 263
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Heightmap (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 11/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 733ebccf-94a5-4ed8-be79-09d5a0bfd9b2
+mtime: 1420256699
+song_end
+song_begin: 12 Dormant (Hummed).mp3
+Time: 187
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Dormant (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 12/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: e42bafde-6b8d-4da2-8287-9ca2e2c8b88b
+mtime: 1420256710
+song_end
+song_begin: 13 Apex Beat (Hummed).mp3
+Time: 189
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Apex Beat (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 13/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: ef64d032-5e28-4a36-ba5d-e2ad1e5a9d41
+mtime: 1420256699
+song_end
+song_begin: 14 Gateless (Hummed).mp3
+Time: 259
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Gateless (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 14/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: fe3b7d0d-3ce2-40bc-ad09-e74f5e9d53c3
+mtime: 1420256704
+song_end
+song_begin: 15 Sandbox (Hummed).mp3
+Time: 203
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Sandbox (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 15/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 2b75413a-9301-4417-8128-eba2ef421136
+mtime: 1420256717
+song_end
+song_begin: 20 Impossible (Hummed).mp3
+Time: 279
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: Impossible (Hummed)
+Album: Transistor Original Soundtrack Extended
+Track: 20/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 8d97dae0-8f1d-4d4f-aa96-a921b52d8922
+mtime: 1420256698
+song_end
+song_begin: 23 V_n_sh_ng P__nt.mp3
+Time: 292
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: V_n_sh_ng P__nt
+Album: Transistor Original Soundtrack Extended
+Track: 23/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 65568a12-fe76-45b5-9aed-7ff5209c25a1
+mtime: 1420256709
+song_end
+song_begin: 25 _n C_rcl_s.mp3
+Time: 206
+Artist: Darren Korb
+AlbumArtist: Darren Korb
+ArtistSort: Korb, Darren
+AlbumArtistSort: Korb, Darren
+Title: _n C_rcl_s
+Album: Transistor Original Soundtrack Extended
+Track: 25/25
+Date: 2014-07-31
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ARTISTID: a7e3c900-1c91-444c-9fce-77d230e5791b
+MUSICBRAINZ_ALBUMID: f5107fa4-c1d4-45f8-b6df-1f409a4a04eb
+MUSICBRAINZ_TRACKID: 0b91e0b5-f398-4527-bf87-be6cd6a58d68
+mtime: 1420256699
+song_end
+end: Darren Korb/Transistor Original Soundtrack Extended
+end: Darren Korb
+directory: Desire
+mtime: 1420256700
+begin: Desire
+directory: II
+mtime: 1420256714
+begin: Desire/II
+song_begin: 01 Montre moi ton visage.mp3
+Time: 155
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Montre moi ton visage
+Album: II
+Track: 1/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: 2be28ca4-74f6-40a9-a0e4-b2f03d1d0d5d
+mtime: 1420256701
+song_end
+song_begin: 02 Mirroir mirroir.mp3
+Time: 318
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Mirroir mirroir
+Album: II
+Track: 2/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: 1c4f6949-74a1-43c5-abad-193aeb960ae3
+mtime: 1420256705
+song_end
+song_begin: 03 Don't Call.mp3
+Time: 275
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Don't Call
+Album: II
+Track: 3/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: c7d1ec45-4e1a-4acd-85f1-6ec1c117ca86
+mtime: 1420256712
+song_end
+song_begin: 04 Dans mes rêves.mp3
+Time: 323
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Dans mes rêves
+Album: II
+Track: 4/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: 23258645-cf55-4740-9919-d04edf307509
+mtime: 1420256714
+song_end
+song_begin: 05 Under Your Spell.mp3
+Time: 296
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Under Your Spell
+Album: II
+Track: 5/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: a63823c1-2cab-4e51-858e-0f6f883cbb04
+mtime: 1420256700
+song_end
+song_begin: 06 Colorless Sky.mp3
+Time: 236
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: Colorless Sky
+Album: II
+Track: 6/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: d8cfcbe2-5a10-4343-9109-2da67411002f
+mtime: 1420256712
+song_end
+song_begin: 07 If I Can't Hold You.mp3
+Time: 439
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: If I Can't Hold You
+Album: II
+Track: 7/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: 21d714b3-1d89-4b0e-9e1f-ba87996c8529
+mtime: 1420256704
+song_end
+song_begin: 08 If I Can't Hold You, Part II.mp3
+Time: 430
+Artist: Desire
+AlbumArtist: Desire
+ArtistSort: Desire
+AlbumArtistSort: Desire
+Title: If I Can't Hold You, Part II
+Album: II
+Track: 8/8
+Date: 2009-06-29
+Genre: Disco
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ARTISTID: 9dae8dff-0c54-4019-a6f2-667890ad9878
+MUSICBRAINZ_ALBUMID: d8552693-7f80-4fe6-981b-a988bfc47a43
+MUSICBRAINZ_TRACKID: 0e80e660-d5e3-41a4-91f9-134321f9e99e
+mtime: 1420256713
+song_end
+end: Desire/II
+end: Desire
+directory: Ellie Goulding
+mtime: 1420256698
+begin: Ellie Goulding
+directory: Bright Lights
+mtime: 1420256718
+begin: Ellie Goulding/Bright Lights
+song_begin: 01 Guns and Horses.mp3
+Time: 215
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Guns and Horses
+Album: Bright Lights
+Track: 1/30
+Date: 2010-11-26
+Genre: Pop
+Composer: John Fortis & Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: a1c6b65d-a9b9-4fc0-9aba-c5c34e90c894
+mtime: 1420256709
+song_end
+song_begin: 02 Starry Eyed.mp3
+Time: 178
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Starry Eyed
+Album: Bright Lights
+Track: 2/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Jonny Lattimer
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 866f5dff-a107-4912-87e7-497a46ef60b9
+mtime: 1420256701
+song_end
+song_begin: 03 This Love (Will Be Your Downfall).mp3
+Time: 234
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: This Love (Will Be Your Downfall)
+Album: Bright Lights
+Track: 3/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 2f4c0ce3-5fbd-49f4-985a-665112cbb8ed
+mtime: 1420256699
+song_end
+song_begin: 04 Under the Sheets.mp3
+Time: 228
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Under the Sheets
+Album: Bright Lights
+Track: 4/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 09342f58-e44c-4a96-96b0-461f152e1620
+mtime: 1420256701
+song_end
+song_begin: 05 The Writer.mp3
+Time: 251
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: The Writer
+Album: Bright Lights
+Track: 5/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Jonny Lattimer
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 3da7d756-8b1e-4894-b946-0ceedfbad73f
+mtime: 1420256698
+song_end
+song_begin: 06 Every Time You Go.mp3
+Time: 205
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Every Time You Go
+Album: Bright Lights
+Track: 6/30
+Date: 2010-11-26
+Genre: Pop
+Composer: John Fortis, Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: b7fed25b-b916-4333-843c-cedefb5a4a31
+mtime: 1420256713
+song_end
+song_begin: 07 Wish I Stayed.mp3
+Time: 220
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Wish I Stayed
+Album: Bright Lights
+Track: 7/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 1774bbe0-b1f8-43fa-a920-65be843c7710
+mtime: 1420256713
+song_end
+song_begin: 08 Your Biggest Mistake.mp3
+Time: 206
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Your Biggest Mistake
+Album: Bright Lights
+Track: 8/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Fraser T. Smith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: e24cb9e4-3e6c-412b-b80b-c4e2df89a3ba
+mtime: 1420256708
+song_end
+song_begin: 09 I'll Hold My Breath.mp3
+Time: 226
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: I'll Hold My Breath
+Album: Bright Lights
+Track: 9/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: c5f69b1a-7ebc-4517-8f06-b1c17894e131
+mtime: 1420256704
+song_end
+song_begin: 10 Salt Skin.mp3
+Time: 258
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Salt Skin
+Album: Bright Lights
+Track: 10/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 5b162b26-464f-475a-9773-29a32aa450af
+mtime: 1420256702
+song_end
+song_begin: 11 Lights.mp3
+Time: 211
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Lights
+Album: Bright Lights
+Track: 11/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Richard Stannard, Ash Howes & Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: ec7a24da-4e14-4eb8-b537-68e3d65d1c75
+mtime: 1420256713
+song_end
+song_begin: 12 Human.mp3
+Time: 249
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Human
+Album: Bright Lights
+Track: 12/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: bf2bcee0-119b-4942-8c3a-ee2beb8e8ddd
+mtime: 1420256712
+song_end
+song_begin: 13 Little Dreams.mp3
+Time: 198
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Little Dreams
+Album: Bright Lights
+Track: 13/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Liam Howe & Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 59cc36a3-1e83-4edc-968a-2065e8eb32b4
+mtime: 1420256712
+song_end
+song_begin: 14 Home.mp3
+Time: 205
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Home
+Album: Bright Lights
+Track: 14/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Fred Falke
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: ed51e742-506f-426a-9c77-280ac1fa3cef
+mtime: 1420256703
+song_end
+song_begin: 15 Animal.mp3
+Time: 221
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Animal
+Album: Bright Lights
+Track: 15/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 0a32ecf3-b22b-4131-9394-c95facbbd8a4
+mtime: 1420256717
+song_end
+song_begin: 16 Believe Me.mp3
+Time: 243
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Believe Me
+Album: Bright Lights
+Track: 16/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding, Rob Blake & Crispin Hunt
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 739edc9d-81fc-4cd4-b956-10fb6b3a23b1
+mtime: 1420256698
+song_end
+song_begin: 17 Your Song.mp3
+Time: 190
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Your Song
+Album: Bright Lights
+Track: 17/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Elton John & Bernie Taupin
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 134b7da4-cb8a-421e-a498-14533bc5f6f3
+mtime: 1420256712
+song_end
+song_begin: 18 The End (acoustic).mp3
+Time: 255
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: The End (acoustic)
+Album: Bright Lights
+Track: 18/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: c7edc19d-9465-4714-aeec-2b93b97dbfe5
+mtime: 1420256703
+song_end
+song_begin: 19 Lights (live at the iTunes Festival).mp3
+Time: 319
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Lights (live at the iTunes Festival)
+Album: Bright Lights
+Track: 19/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Richard Stannard, Ash Howes & Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 9277d3dd-6e07-479e-9c78-a2fe9a9ce686
+mtime: 1420256709
+song_end
+song_begin: 20 Every Time You Go (live at the iTunes Festival).mp3
+Time: 220
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Every Time You Go (live at the iTunes Festival)
+Album: Bright Lights
+Track: 20/30
+Date: 2010-11-26
+Genre: Pop
+Composer: John Fortis, Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: c8b0a7d1-39cd-435c-9428-8b4f61083330
+mtime: 1420256698
+song_end
+song_begin: 21 This Love (Will Be Your Downfall) (live at the iTunes Festival).mp3
+Time: 240
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: This Love (Will Be Your Downfall) (live at the iTunes Festival)
+Album: Bright Lights
+Track: 21/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: e88da0e4-eb8a-4cda-891b-a9ed8837ab14
+mtime: 1420256712
+song_end
+song_begin: 22 Your Biggest Mistake (live at the iTunes Festival).mp3
+Time: 204
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Your Biggest Mistake (live at the iTunes Festival)
+Album: Bright Lights
+Track: 22/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Fraser T. Smith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 31907b69-f713-4062-99e7-6ebf7e672cdb
+mtime: 1420256717
+song_end
+song_begin: 23 The Writer (live at the iTunes Festival).mp3
+Time: 250
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: The Writer (live at the iTunes Festival)
+Album: Bright Lights
+Track: 23/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Jonny Lattimer
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: ebd5c16a-7dab-4630-a7cb-37bf3b65e015
+mtime: 1420256712
+song_end
+song_begin: 24 Wish I Stayed (live at the iTunes Festival).mp3
+Time: 266
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Wish I Stayed (live at the iTunes Festival)
+Album: Bright Lights
+Track: 24/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 71310428-00bb-4f2e-b65b-ba8c3d8bb6c9
+mtime: 1420256707
+song_end
+song_begin: 25 I'll Hold My Breath (live at the iTunes Festival).mp3
+Time: 228
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: I'll Hold My Breath (live at the iTunes Festival)
+Album: Bright Lights
+Track: 25/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: c1e72aca-5f0c-44d3-8590-47ed6be659c7
+mtime: 1420256713
+song_end
+song_begin: 26 Roscoe (live at the iTunes Festival).mp3
+Time: 208
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Roscoe (live at the iTunes Festival)
+Album: Bright Lights
+Track: 26/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Tim Smith & Midlake
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: ec004132-e704-4af2-a59b-be05d14b7840
+mtime: 1420256702
+song_end
+song_begin: 27 Guns and Horses (live at the iTunes Festival).mp3
+Time: 223
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Guns and Horses (live at the iTunes Festival)
+Album: Bright Lights
+Track: 27/30
+Date: 2010-11-26
+Genre: Pop
+Composer: John Fortis & Ellie Goulding
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: d5be2d64-eeb5-4ac1-bb70-d378dea54817
+mtime: 1420256703
+song_end
+song_begin: 28 Salt Skin (live at the iTunes Festival).mp3
+Time: 310
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Salt Skin (live at the iTunes Festival)
+Album: Bright Lights
+Track: 28/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 0c8e4d66-26d0-4b73-85b3-808aa75f6c21
+mtime: 1420256708
+song_end
+song_begin: 29 Under the Sheets (live at the iTunes Festival).mp3
+Time: 235
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Under the Sheets (live at the iTunes Festival)
+Album: Bright Lights
+Track: 29/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Starsmith
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 71305149-cccd-45ab-8b8e-75f54d752697
+mtime: 1420256709
+song_end
+song_begin: 30 Starry Eyed (live at the iTunes Festival).mp3
+Time: 229
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Starry Eyed (live at the iTunes Festival)
+Album: Bright Lights
+Track: 30/30
+Date: 2010-11-26
+Genre: Pop
+Composer: Ellie Goulding & Jonny Lattimer
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 4fce3a8f-2e89-4f70-9852-e0e960faff8e
+MUSICBRAINZ_TRACKID: 6c59247e-3c0f-48db-a0c2-d4434db61215
+mtime: 1420256718
+song_end
+end: Ellie Goulding/Bright Lights
+directory: Halcyon
+mtime: 1420256718
+begin: Ellie Goulding/Halcyon
+song_begin: 01 Ellie Goulding - Don't Say a Word.mp3
+Time: 248
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Don't Say a Word
+Album: Halcyon
+Track: 1/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: decd5ca6-3c34-4696-a64c-c2084cead91c
+mtime: 1420256704
+song_end
+song_begin: 02 Ellie Goulding - My Blood.mp3
+Time: 236
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: My Blood
+Album: Halcyon
+Track: 2/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 5a595281-a2f0-405a-ad0f-09764bbe0994
+mtime: 1420256703
+song_end
+song_begin: 03 Ellie Goulding - Anything Could Happen.mp3
+Time: 287
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Anything Could Happen
+Album: Halcyon
+Track: 3/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 672f76ca-cda3-48d7-a1df-05f207511848
+mtime: 1420256713
+song_end
+song_begin: 04 Ellie Goulding - Only You.mp3
+Time: 232
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Only You
+Album: Halcyon
+Track: 4/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 31344c60-4541-4f7a-aeb7-2cfc39f3ea96
+mtime: 1420256718
+song_end
+song_begin: 05 Ellie Goulding - Halcyon.mp3
+Time: 205
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Halcyon
+Album: Halcyon
+Track: 5/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 9500e485-88cf-4bb1-b0d1-33106af9f6c1
+mtime: 1420256718
+song_end
+song_begin: 06 Ellie Goulding - Figure 8.mp3
+Time: 248
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Figure 8
+Album: Halcyon
+Track: 6/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 6f5d72e7-7301-4f7c-9b55-5885f0a7c097
+mtime: 1420256707
+song_end
+song_begin: 07 Ellie Goulding - Joy.mp3
+Time: 190
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Joy
+Album: Halcyon
+Track: 7/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: b7bd13a0-9a1f-4bab-8d8e-b9b3fae259c7
+mtime: 1420256702
+song_end
+song_begin: 08 Ellie Goulding - Hanging On.mp3
+Time: 202
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Hanging On
+Album: Halcyon
+Track: 8/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 935db662-04fd-4979-a298-d3a5146a5284
+mtime: 1420256704
+song_end
+song_begin: 09 Ellie Goulding - Explosions.mp3
+Time: 244
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Explosions
+Album: Halcyon
+Track: 9/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: f7510d56-3351-43df-aec9-7f36f676604f
+mtime: 1420256698
+song_end
+song_begin: 10 Ellie Goulding - I Know You Care.mp3
+Time: 207
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: I Know You Care
+Album: Halcyon
+Track: 10/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 8ba977a9-ccfa-4be5-ae48-a5ce18c2a576
+mtime: 1420256705
+song_end
+song_begin: 11 Ellie Goulding - Atlantis.mp3
+Time: 233
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Atlantis
+Album: Halcyon
+Track: 11/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 6c75c8d3-5eb4-4b27-8f4d-d4cf363539e5
+mtime: 1420256717
+song_end
+song_begin: 12 Ellie Goulding - Dead in the Water.mp3
+Time: 285
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Dead in the Water
+Album: Halcyon
+Track: 12/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 1ddb5da4-eb5c-404d-a232-9fa130e73bb4
+mtime: 1420256714
+song_end
+song_begin: 13 Calvin Harris feat. Ellie Goulding - I Need Your Love.mp3
+Time: 235
+Artist: Calvin Harris feat. Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Harris, Calvin feat. Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: I Need Your Love
+Album: Halcyon
+Track: 13/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 8dd98bdc-80ec-4e93-8509-2f46bafc09a7/33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 2a45628d-9b79-4688-996b-bd630cde7d77
+mtime: 1420256699
+song_end
+song_begin: 14 Ellie Goulding - Lights.mp3
+Time: 213
+Artist: Ellie Goulding
+AlbumArtist: Ellie Goulding
+ArtistSort: Goulding, Ellie
+AlbumArtistSort: Goulding, Ellie
+Title: Lights
+Album: Halcyon
+Track: 14/14
+Date: 2012-10-05
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ARTISTID: 33ca19f4-18c8-4411-98df-ac23890ce9f5
+MUSICBRAINZ_ALBUMID: 9a4a1665-4073-46eb-b62f-306e645f5576
+MUSICBRAINZ_TRACKID: 5dd287ae-eae0-4fb1-930c-aa204d37cdc8
+mtime: 1420256707
+song_end
+end: Ellie Goulding/Halcyon
+end: Ellie Goulding
+directory: Kaskade
+mtime: 1420256704
+begin: Kaskade
+directory: Dynasty
+mtime: 1420256714
+begin: Kaskade/Dynasty
+song_begin: 01 Kaskade feat. Becky Jean Williams - Start Again.mp3
+Time: 256
+Artist: Kaskade feat. Becky Jean Williams
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Williams, Becky Jean
+AlbumArtistSort: Kaskade
+Title: Start Again
+Album: Dynasty
+Track: 1/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Mark Phillips/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/0f5842f0-2221-4caf-94f7-d4b0bb313b40
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: b0c58f5e-e28f-4333-9b70-4ebe9402dbee
+mtime: 1420256702
+song_end
+song_begin: 02 Kaskade with EDX feat. Haley - Don't Stop Dancing.mp3
+Time: 276
+Artist: Kaskade with EDX feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade with EDX feat. Haley
+AlbumArtistSort: Kaskade
+Title: Don't Stop Dancing
+Album: Dynasty
+Track: 2/13
+Date: 2010-04-27
+Genre: House
+Composer: Christian Hirt/DJ EDX/Finn Bjarnson/Maurizio Colella/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/abd1b98c-b601-4053-aaee-e3b8f35bcf44/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: e6b708ea-89ee-4155-8d78-c5c1ad4c6ad0
+mtime: 1420256714
+song_end
+song_begin: 03 Kaskade feat. Haley - Dynasty.mp3
+Time: 197
+Artist: Kaskade feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Haley
+AlbumArtistSort: Kaskade
+Title: Dynasty
+Album: Dynasty
+Track: 3/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 557b17dd-b53b-4b9c-aa9a-c15c8dbd8ddf
+mtime: 1420256698
+song_end
+song_begin: 04 Kaskade feat. Mindy Gledhill - Say It's Over.mp3
+Time: 245
+Artist: Kaskade feat. Mindy Gledhill
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Gledhill, Mindy
+AlbumArtistSort: Kaskade
+Title: Say It's Over
+Album: Dynasty
+Track: 4/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/176a9a0c-93b9-457e-bfe6-e7e638e85acf
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 0032be95-9985-477e-9954-9a607ceb9fb7
+mtime: 1420256698
+song_end
+song_begin: 05 Kaskade feat. Dragonette - Fire in Your New Shoes.mp3
+Time: 159
+Artist: Kaskade feat. Dragonette
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Dragonette
+AlbumArtistSort: Kaskade
+Title: Fire in Your New Shoes
+Album: Dynasty
+Track: 5/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/Mark Phillips/Martina Sorbara/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/00ef5e52-582b-4d53-a03a-bbd5b3084197
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: f7422907-a4bb-4c2d-bd48-827dbbd1a232
+mtime: 1420256707
+song_end
+song_begin: 06 Kaskade feat. Polina - Human Reactor.mp3
+Time: 251
+Artist: Kaskade feat. Polina
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Polina
+AlbumArtistSort: Kaskade
+Title: Human Reactor
+Album: Dynasty
+Track: 6/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Polina Goudieva/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/de70c952-7683-4946-ac6b-796be6769f0c
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: cef8ec24-f00f-4a2b-952f-e81358c5e960
+mtime: 1420256699
+song_end
+song_begin: 07 Kaskade with Tiësto feat. Haley - Only You With.mp3
+Time: 290
+Artist: Kaskade with Tiësto feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade with Tiësto feat. Haley
+AlbumArtistSort: Kaskade
+Title: Only You With
+Album: Dynasty
+Track: 7/13
+Date: 2010-04-27
+Genre: House
+Composer: D.J. Waakop Reijers-Fraaij/Finn Bjarnson/Ryan Raddon/T. Verwest
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/aabb1d9f-be12-45b3-a84d-a1fc3e8181fd/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: a686cfc2-809a-4c9b-8316-cfa0ec32ca1b
+mtime: 1420256699
+song_end
+song_begin: 08 Kaskade feat. Mindy Gledhill - Call Out.mp3
+Time: 243
+Artist: Kaskade feat. Mindy Gledhill
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Gledhill, Mindy
+AlbumArtistSort: Kaskade
+Title: Call Out
+Album: Dynasty
+Track: 8/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/176a9a0c-93b9-457e-bfe6-e7e638e85acf
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: ba0aeb6c-1ad7-4028-87b8-80729d5a3167
+mtime: 1420256713
+song_end
+song_begin: 09 Kaskade feat. Polina - To the Skies.mp3
+Time: 249
+Artist: Kaskade feat. Polina
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Polina
+AlbumArtistSort: Kaskade
+Title: To the Skies
+Album: Dynasty
+Track: 9/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Polina Goudieva/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/de70c952-7683-4946-ac6b-796be6769f0c
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 4fbd643e-7f0b-4fb6-8bf7-91642f059237
+mtime: 1420256704
+song_end
+song_begin: 10 Kaskade feat. Haley - Don't Wait.mp3
+Time: 220
+Artist: Kaskade feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Haley
+AlbumArtistSort: Kaskade
+Title: Don't Wait
+Album: Dynasty
+Track: 10/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 28eba3c7-333e-4df1-bed7-8ac7ce6e9156
+mtime: 1420256714
+song_end
+song_begin: 11 Kaskade feat. Becky Jean Williams - Empty Streets.mp3
+Time: 247
+Artist: Kaskade feat. Becky Jean Williams
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Williams, Becky Jean
+AlbumArtistSort: Kaskade
+Title: Empty Streets
+Album: Dynasty
+Track: 11/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/0f5842f0-2221-4caf-94f7-d4b0bb313b40
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 7063bf48-3eac-49dc-acb2-6cc1f02cb19b
+mtime: 1420256709
+song_end
+song_begin: 12 Kaskade feat. Mindy Gledhill - All That You Give.mp3
+Time: 273
+Artist: Kaskade feat. Mindy Gledhill
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Gledhill, Mindy
+AlbumArtistSort: Kaskade
+Title: All That You Give
+Album: Dynasty
+Track: 12/13
+Date: 2010-04-27
+Genre: House
+Composer: Finn Bjarnson/John Hancock/Ryan Raddon
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/176a9a0c-93b9-457e-bfe6-e7e638e85acf
+MUSICBRAINZ_ALBUMID: 43095512-b767-4167-be33-5baf8f9b7b32
+MUSICBRAINZ_TRACKID: 1c0c6abe-6049-4550-a7d7-4b8ad2b14e6a
+mtime: 1420256703
+song_end
+end: Kaskade/Dynasty
+directory: Fire & Ice
+mtime: 1420256717
+begin: Kaskade/Fire & Ice
+song_begin: 1-01 Kaskade feat. Mindy Gledhill - Eyes.mp3
+Time: 315
+Artist: Kaskade feat. Mindy Gledhill
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Gledhill, Mindy
+AlbumArtistSort: Kaskade
+Title: Eyes
+Album: Fire & Ice
+Track: 1/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/176a9a0c-93b9-457e-bfe6-e7e638e85acf
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: a8ef7372-20bd-4677-9004-f6cd6aeb6648
+mtime: 1420256701
+song_end
+song_begin: 1-02 Kaskade with Rebecca & Fiona - Turn It Down.mp3
+Time: 313
+Artist: Kaskade with Rebecca & Fiona
+AlbumArtist: Kaskade
+ArtistSort: Kaskade with Rebecca & Fiona
+AlbumArtistSort: Kaskade
+Title: Turn It Down
+Album: Fire & Ice
+Track: 2/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/79ba6a62-037c-4f16-bbf3-8fe8b363451b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 9324a127-b4e6-49f8-aeb7-c39fb3f9f3bf
+mtime: 1420256698
+song_end
+song_begin: 1-03 Kaskade feat. Neon Trees - Lessons In Love.mp3
+Time: 248
+Artist: Kaskade feat. Neon Trees
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Neon Trees
+AlbumArtistSort: Kaskade
+Title: Lessons In Love
+Album: Fire & Ice
+Track: 3/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/16243662-8538-4746-a0fb-0d15b5828b8e
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 002bed1f-f3ea-4eb1-a4dc-89db4f8cbbbf
+mtime: 1420256698
+song_end
+song_begin: 1-04 Kaskade & Skrillex - Lick It.mp3
+Time: 214
+Artist: Kaskade & Skrillex
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Skrillex
+AlbumArtistSort: Kaskade
+Title: Lick It
+Album: Fire & Ice
+Track: 4/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/ae002c5d-aac6-490b-a39a-30aa9e2edf2b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: cbfb47f5-a9e2-402d-818a-7b376151c230
+mtime: 1420256698
+song_end
+song_begin: 1-05 Kaskade feat. Haley - Llove.mp3
+Time: 279
+Artist: Kaskade feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Haley
+AlbumArtistSort: Kaskade
+Title: Llove
+Album: Fire & Ice
+Track: 5/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: acffe935-5dbf-4d1e-90ae-17e7f0bb18f6
+mtime: 1420256702
+song_end
+song_begin: 1-06 Kaskade feat. Marcus Bentley - Let Me Go.mp3
+Time: 272
+Artist: Kaskade feat. Marcus Bentley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Bentley, Marcus
+AlbumArtistSort: Kaskade
+Title: Let Me Go
+Album: Fire & Ice
+Track: 6/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/a07e78e1-f939-4fc6-a993-6ba6022caf3b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 876a3e22-5f08-43d2-8422-0ec73b7b21c9
+mtime: 1420256698
+song_end
+song_begin: 1-07 Kaskade feat. Quadron - Waste Love.mp3
+Time: 275
+Artist: Kaskade feat. Quadron
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Quadron
+AlbumArtistSort: Kaskade
+Title: Waste Love
+Album: Fire & Ice
+Track: 7/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/80088c76-727d-4cbd-88d5-acf176de7502
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 350218c4-a57a-48e5-92f7-58f62d5f7595
+mtime: 1420256700
+song_end
+song_begin: 1-08 Kaskade & Dada Life with Dan Black - Ice.mp3
+Time: 252
+Artist: Kaskade & Dada Life with Dan Black
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Dada Life with Black, Dan
+AlbumArtistSort: Kaskade
+Title: Ice
+Album: Fire & Ice
+Track: 8/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/5b3cc848-942f-4363-8e89-b63a13c3fd0e/4658babc-774d-4d15-840b-fc7d496d93ba
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 6e5b8883-5664-451e-8132-f2639aa9a935
+mtime: 1420256698
+song_end
+song_begin: 1-09 Kaskade & Inpetto with Late Night Alumni - How Long.mp3
+Time: 311
+Artist: Kaskade & Inpetto with Late Night Alumni
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Inpetto with Late Night Alumni
+AlbumArtistSort: Kaskade
+Title: How Long
+Album: Fire & Ice
+Track: 9/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/66028951-cc30-4215-82e5-29bb9bd36cb1/c0766f2c-6197-4852-9f47-9dfd71923afa
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 249ac40e-a8c5-40f3-bd1b-30fbb24c3db1
+mtime: 1420256717
+song_end
+song_begin: 1-10 Kaskade feat. Skylar Grey - Room for Happiness.mp3
+Time: 280
+Artist: Kaskade feat. Skylar Grey
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Grey, Skylar
+AlbumArtistSort: Kaskade
+Title: Room for Happiness
+Album: Fire & Ice
+Track: 10/10
+Date: 2011-10-25
+Genre: House
+Disc: 1/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/bd01c9d7-89dd-4cb4-9baa-a43bfa292bed
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: eae72541-3474-4697-b4c7-272082612465
+mtime: 1420256706
+song_end
+song_begin: 2-01 Kaskade feat. Mindy Gledhill - Eyes (Kaskade's ICE mix).mp3
+Time: 211
+Artist: Kaskade feat. Mindy Gledhill
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Gledhill, Mindy
+AlbumArtistSort: Kaskade
+Title: Eyes (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 1/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/176a9a0c-93b9-457e-bfe6-e7e638e85acf
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 36f54307-fce1-4b22-9394-b5612765f809
+mtime: 1420256708
+song_end
+song_begin: 2-02 Kaskade with Rebecca & Fiona - Turn It Down (Kaskade's ICE mix).mp3
+Time: 322
+Artist: Kaskade with Rebecca & Fiona
+AlbumArtist: Kaskade
+ArtistSort: Kaskade with Rebecca & Fiona
+AlbumArtistSort: Kaskade
+Title: Turn It Down (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 2/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/79ba6a62-037c-4f16-bbf3-8fe8b363451b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: c1827c41-ee8a-4326-836a-62da973d782c
+mtime: 1420256710
+song_end
+song_begin: 2-03 Kaskade feat. Neon Trees - Lessons in Love (Kaskade's ICE mix).mp3
+Time: 231
+Artist: Kaskade feat. Neon Trees
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Neon Trees
+AlbumArtistSort: Kaskade
+Title: Lessons in Love (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 3/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/16243662-8538-4746-a0fb-0d15b5828b8e
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 63a1b811-c286-47da-89b0-79f195a42410
+mtime: 1420256702
+song_end
+song_begin: 2-04 Kaskade & Skrillex - Lick It (Kaskade's ICE mix).mp3
+Time: 269
+Artist: Kaskade & Skrillex
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Skrillex
+AlbumArtistSort: Kaskade
+Title: Lick It (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 4/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/ae002c5d-aac6-490b-a39a-30aa9e2edf2b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: b895ba22-f128-4455-b40e-3b006c4e1dc5
+mtime: 1420256698
+song_end
+song_begin: 2-05 Kaskade feat. Haley - Llove (Kaskade's ICE mix).mp3
+Time: 231
+Artist: Kaskade feat. Haley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Haley
+AlbumArtistSort: Kaskade
+Title: Llove (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 5/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/683b247b-7665-4f02-9cef-c244c23f5533
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 96ef170e-1859-4aab-89cc-6bc1c9631878
+mtime: 1420256708
+song_end
+song_begin: 2-06 Kaskade feat. Marcus Bentley - Let Me Go (Kaskade's ICE mix).mp3
+Time: 200
+Artist: Kaskade feat. Marcus Bentley
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Bentley, Marcus
+AlbumArtistSort: Kaskade
+Title: Let Me Go (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 6/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/a07e78e1-f939-4fc6-a993-6ba6022caf3b
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: b50b8fcb-5c45-4017-882d-64f635725593
+mtime: 1420256712
+song_end
+song_begin: 2-07 Kaskade feat. Quadron - Waste Love (Kaskade's ICE mix).mp3
+Time: 243
+Artist: Kaskade feat. Quadron
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Quadron
+AlbumArtistSort: Kaskade
+Title: Waste Love (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 7/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/80088c76-727d-4cbd-88d5-acf176de7502
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: b8630811-376e-4465-acad-fb67aebf5b58
+mtime: 1420256713
+song_end
+song_begin: 2-08 Kaskade & Dada Life with Dan Black - Ice (Kaskade's ICE mix).mp3
+Time: 141
+Artist: Kaskade & Dada Life with Dan Black
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Dada Life with Black, Dan
+AlbumArtistSort: Kaskade
+Title: Ice (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 8/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/5b3cc848-942f-4363-8e89-b63a13c3fd0e/4658babc-774d-4d15-840b-fc7d496d93ba
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 43836b18-2ff4-41c1-80c1-f9a48c1dc6fd
+mtime: 1420256700
+song_end
+song_begin: 2-09 Kaskade & Inpetto with Late Night Alumni - How Long (Kaskade's ICE mix).mp3
+Time: 295
+Artist: Kaskade & Inpetto with Late Night Alumni
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & Inpetto with Late Night Alumni
+AlbumArtistSort: Kaskade
+Title: How Long (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 9/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/66028951-cc30-4215-82e5-29bb9bd36cb1/c0766f2c-6197-4852-9f47-9dfd71923afa
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: 46824e25-ea67-4641-a49e-c312d8ea1d3e
+mtime: 1420256703
+song_end
+song_begin: 2-10 Kaskade feat. Skylar Grey - Room for Happiness (Kaskade's ICE mix).mp3
+Time: 295
+Artist: Kaskade feat. Skylar Grey
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Grey, Skylar
+AlbumArtistSort: Kaskade
+Title: Room for Happiness (Kaskade's ICE mix)
+Album: Fire & Ice
+Track: 10/10
+Date: 2011-10-25
+Genre: House
+Disc: 2/2
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/bd01c9d7-89dd-4cb4-9baa-a43bfa292bed
+MUSICBRAINZ_ALBUMID: a8274388-3b4b-49f5-b74b-1f05c7341631
+MUSICBRAINZ_TRACKID: ebc84ed2-959c-4fb0-abcc-62e082090acb
+mtime: 1420256698
+song_end
+end: Kaskade/Fire & Ice
+directory: In the Moment
+mtime: 1420256718
+begin: Kaskade/In the Moment
+song_begin: 01 Kaskade - Steppin' Out.mp3
+Time: 229
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Steppin' Out
+Album: In the Moment
+Track: 1/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 63ff4634-cc8c-416a-ae0a-d5395362b642
+mtime: 1420256708
+song_end
+song_begin: 02 Kaskade - Maybe.mp3
+Time: 280
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Maybe
+Album: In the Moment
+Track: 2/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 3ee058a3-4e39-4e8e-9a5b-baca73f08534
+mtime: 1420256709
+song_end
+song_begin: 03 Kaskade feat. Colette - I Like the Way.mp3
+Time: 224
+Artist: Kaskade feat. Colette
+AlbumArtist: Kaskade
+ArtistSort: Kaskade feat. Colette
+AlbumArtistSort: Kaskade
+Title: I Like the Way
+Album: In the Moment
+Track: 3/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/ab459cff-7bdc-4b7d-bf1a-9e48613c033e
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 2c4f075f-ce08-4f43-b6dd-2324edde0a79
+mtime: 1420256705
+song_end
+song_begin: 04 Kaskade - Honesty.mp3
+Time: 267
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Honesty
+Album: In the Moment
+Track: 4/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 64fc6fe8-b8eb-46f0-9a05-0d25fc21eaf7
+mtime: 1420256708
+song_end
+song_begin: 05 Kaskade - Sweet Love.mp3
+Time: 326
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Sweet Love
+Album: In the Moment
+Track: 5/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: f217606b-b703-4b49-af4a-4642c3bf6a3f
+mtime: 1420256717
+song_end
+song_begin: 06 Kaskade - Strum.mp3
+Time: 277
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Strum
+Album: In the Moment
+Track: 6/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 1b631117-9b5f-4393-a34f-cd668fb320c3
+mtime: 1420256704
+song_end
+song_begin: 07 Kaskade - One You.mp3
+Time: 215
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: One You
+Album: In the Moment
+Track: 7/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: e3e4e573-f0e2-403c-a417-fabc4188d288
+mtime: 1420256707
+song_end
+song_begin: 08 Kaskade - Interlude.mp3
+Time: 43
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Interlude
+Album: In the Moment
+Track: 8/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: f5a04769-75b3-47e3-8020-f83860cc6d0d
+mtime: 1420256712
+song_end
+song_begin: 09 Kaskade - Soundtrack to the Soul (slow motion mix).mp3
+Time: 245
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Soundtrack to the Soul (slow motion mix)
+Album: In the Moment
+Track: 9/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: fd439073-54b7-4073-978b-c2bee1d60d77
+mtime: 1420256708
+song_end
+song_begin: 10 Kaskade with Andy Caldwell - Everything.mp3
+Time: 210
+Artist: Kaskade with Andy Caldwell
+AlbumArtist: Kaskade
+ArtistSort: Kaskade with Caldwell, Andy
+AlbumArtistSort: Kaskade
+Title: Everything
+Album: In the Moment
+Track: 10/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/07a2dd02-a308-4d15-a76d-204b7660830f
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 96684cb8-bbc8-41a8-9fcc-57632d02628b
+mtime: 1420256705
+song_end
+song_begin: 11 Kaskade - Yeah Right.mp3
+Time: 199
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Yeah Right
+Album: In the Moment
+Track: 11/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: a5561ece-8f5a-49ac-a364-9a84e013e415
+mtime: 1420256718
+song_end
+song_begin: 12 Kaskade - Move.mp3
+Time: 222
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Move
+Album: In the Moment
+Track: 12/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: aa04509a-13c9-4c08-be6a-41217160cb22
+mtime: 1420256713
+song_end
+song_begin: 13 Kaskade - Let You Go.mp3
+Time: 342
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Let You Go
+Album: In the Moment
+Track: 13/13
+Date: 2004-05-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 79037fa0-202e-4840-92d2-5d679f03a473
+MUSICBRAINZ_TRACKID: 9277b9b8-5ddb-49c6-9033-7a107e1a8d9c
+mtime: 1420256714
+song_end
+end: Kaskade/In the Moment
+directory: It's You, It's Me
+mtime: 1420256718
+begin: Kaskade/It's You, It's Me
+song_begin: 01 Meditation to the Groove.mp3
+Time: 418
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Meditation to the Groove
+Album: It's You, It's Me
+Track: 1/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: cabcf7fa-dafb-43a8-a1eb-b2291662c6da
+mtime: 1420256718
+song_end
+song_begin: 02 I Feel Like.mp3
+Time: 348
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: I Feel Like
+Album: It's You, It's Me
+Track: 2/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: d39fa884-d531-4559-8457-9c89fc572b28
+mtime: 1420256715
+song_end
+song_begin: 03 What I Say (soft shuffle mix).mp3
+Time: 297
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: What I Say (soft shuffle mix)
+Album: It's You, It's Me
+Track: 3/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 8c540d7d-0d05-4fd8-9e6b-156dd8ed94ab
+mtime: 1420256702
+song_end
+song_begin: 04 This Rhythm.mp3
+Time: 274
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: This Rhythm
+Album: It's You, It's Me
+Track: 4/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: c87e3b99-d85a-49a9-a5f8-8ab04f34f5b2
+mtime: 1420256703
+song_end
+song_begin: 05 Mak Mop.mp3
+Time: 77
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Mak Mop
+Album: It's You, It's Me
+Track: 5/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 98860b31-c2c8-417e-9091-e752cd37e278
+mtime: 1420256718
+song_end
+song_begin: 06 Seeing Julie.mp3
+Time: 280
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Seeing Julie
+Album: It's You, It's Me
+Track: 6/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 115b68c7-4ace-431a-bc01-4d717d90c930
+mtime: 1420256704
+song_end
+song_begin: 07 It's You, It's Me.mp3
+Time: 296
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: It's You, It's Me
+Album: It's You, It's Me
+Track: 7/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 1e6416d8-fafc-45a3-8e38-7549805b54ea
+mtime: 1420256710
+song_end
+song_begin: 08 Get Busy.mp3
+Time: 253
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Get Busy
+Album: It's You, It's Me
+Track: 8/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 1b68b021-8d56-4ba4-a916-1d4f3f70e0a8
+mtime: 1420256714
+song_end
+song_begin: 09 Tonight.mp3
+Time: 337
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Tonight
+Album: It's You, It's Me
+Track: 9/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 15b1ea64-dc58-4de9-a5ac-48ea39db9268
+mtime: 1420256717
+song_end
+song_begin: 10 Charlie's Plight.mp3
+Time: 235
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Charlie's Plight
+Album: It's You, It's Me
+Track: 10/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: c5ddb405-daf4-46f0-9dc1-86249fc716b6
+mtime: 1420256703
+song_end
+song_begin: 11 My Time.mp3
+Time: 295
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: My Time
+Album: It's You, It's Me
+Track: 11/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 99c25bff-24d1-497c-9c33-d41f51377d13
+mtime: 1420256700
+song_end
+song_begin: 12 Call Me Wise.mp3
+Time: 331
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Call Me Wise
+Album: It's You, It's Me
+Track: 12/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: d525c7b6-eaa1-4970-ae62-ae714dedbddf
+mtime: 1420256711
+song_end
+song_begin: 13 Close.mp3
+Time: 339
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Close
+Album: It's You, It's Me
+Track: 13/13
+Date: 2003-03-18
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: ea95d435-9eed-4bd6-8e8d-4ea3350c0361
+MUSICBRAINZ_TRACKID: 3ae3e937-5cce-4239-ac11-fbe07fd8f605
+mtime: 1420256707
+song_end
+end: Kaskade/It's You, It's Me
+directory: Love Mysterious
+mtime: 1420256718
+begin: Kaskade/Love Mysterious
+song_begin: 01 Stars Align.mp3
+Time: 256
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Stars Align
+Album: Love Mysterious
+Track: 1/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 5b845a1c-b859-4096-9b89-1f951da84420
+mtime: 1420256699
+song_end
+song_begin: 02 All You.mp3
+Time: 244
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: All You
+Album: Love Mysterious
+Track: 2/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 82337956-72e2-4c46-8f18-88bdd27a9089
+mtime: 1420256707
+song_end
+song_begin: 03 Be Still.mp3
+Time: 224
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Be Still
+Album: Love Mysterious
+Track: 3/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: a4f32585-99c0-4c95-af7a-e7bc62dfe6a5
+mtime: 1420256717
+song_end
+song_begin: 04 Distance.mp3
+Time: 218
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Distance
+Album: Love Mysterious
+Track: 4/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: a7f03c65-f98f-46d4-a93d-f6fafa5ed08b
+mtime: 1420256712
+song_end
+song_begin: 05 The X.mp3
+Time: 286
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: The X
+Album: Love Mysterious
+Track: 5/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: fc451db8-f0eb-4ae4-a247-66a2ff2f9370
+mtime: 1420256714
+song_end
+song_begin: 06 Fake.mp3
+Time: 178
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Fake
+Album: Love Mysterious
+Track: 6/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: bc00fb92-3fac-4d8f-a279-819080346021
+mtime: 1420256698
+song_end
+song_begin: 07 Sometimes.mp3
+Time: 312
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Sometimes
+Album: Love Mysterious
+Track: 7/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 78d2f838-662e-45ce-be00-824ff650b320
+mtime: 1420256701
+song_end
+song_begin: 08 In This Life.mp3
+Time: 260
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: In This Life
+Album: Love Mysterious
+Track: 8/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 0450f345-395b-488a-b35b-3ad4a50c81fe
+mtime: 1420256718
+song_end
+song_begin: 09 Sorry.mp3
+Time: 276
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Sorry
+Album: Love Mysterious
+Track: 9/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 69d892b5-2f47-4cb5-95c2-af962bf184e5
+mtime: 1420256714
+song_end
+song_begin: 10 Never Ending.mp3
+Time: 237
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Never Ending
+Album: Love Mysterious
+Track: 10/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 14f4c18e-2c6b-4556-9f99-6636be53956b
+mtime: 1420256718
+song_end
+song_begin: 11 4AM.mp3
+Time: 258
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: 4AM
+Album: Love Mysterious
+Track: 11/11
+Date: 2006-09-26
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9e5cf65e-b98b-4a35-b6c4-837199fbe578
+MUSICBRAINZ_TRACKID: 530a9ea4-2321-478a-ba31-8cc282f4e912
+mtime: 1420256717
+song_end
+end: Kaskade/Love Mysterious
+directory: Strobelite Seduction
+mtime: 1420256719
+begin: Kaskade/Strobelite Seduction
+song_begin: 01 Move For Me.mp3
+Time: 239
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Move For Me
+Album: Strobelite Seduction
+Track: 1/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 771e0a4a-2aeb-4fb1-8308-ae0228a63273
+mtime: 1420256719
+song_end
+song_begin: 02 Angel on My Shoulder.mp3
+Time: 230
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Angel on My Shoulder
+Album: Strobelite Seduction
+Track: 2/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: ce1d8672-745e-41db-ac8b-cc0b2027e014
+mtime: 1420256707
+song_end
+song_begin: 03 Back on You.mp3
+Time: 225
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Back on You
+Album: Strobelite Seduction
+Track: 3/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 4026c458-2450-4a79-90f9-843029e0d627
+mtime: 1420256711
+song_end
+song_begin: 04 Step One Two.mp3
+Time: 202
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Step One Two
+Album: Strobelite Seduction
+Track: 4/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 273b2140-e6f5-4d9c-92f1-4ab91867315b
+mtime: 1420256701
+song_end
+song_begin: 05 Pose.mp3
+Time: 217
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Pose
+Album: Strobelite Seduction
+Track: 5/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 3cf7e4fc-e5c2-49eb-9351-c74b65c4542c
+mtime: 1420256719
+song_end
+song_begin: 06 I Remember.mp3
+Time: 285
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: I Remember
+Album: Strobelite Seduction
+Track: 6/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: e41a6007-5a6d-4ccf-961c-2f14566c2f1d
+mtime: 1420256713
+song_end
+song_begin: 07 Borrowed Theme.mp3
+Time: 226
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Borrowed Theme
+Album: Strobelite Seduction
+Track: 7/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 4b2ecb8b-e6b1-4b45-afa2-4b4a459af49b
+mtime: 1420256698
+song_end
+song_begin: 08 I'll Never Dream.mp3
+Time: 230
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: I'll Never Dream
+Album: Strobelite Seduction
+Track: 8/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: 99134d7d-f43d-4857-bd4f-3b99e5ec891c
+mtime: 1420256702
+song_end
+song_begin: 09 One Heart.mp3
+Time: 242
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: One Heart
+Album: Strobelite Seduction
+Track: 9/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: c2061b20-9b24-4326-9ac5-7a66b53008dc
+mtime: 1420256698
+song_end
+song_begin: 10 Your Love Is Black.mp3
+Time: 274
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Your Love Is Black
+Album: Strobelite Seduction
+Track: 10/10
+Date: 2008-06-03
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 5113191b-ac2e-4f5e-81b1-bd1821eb6c8a
+MUSICBRAINZ_TRACKID: d1274266-aa79-4894-855e-0800479fc994
+mtime: 1420256701
+song_end
+end: Kaskade/Strobelite Seduction
+directory: dance.love
+mtime: 1420256718
+begin: Kaskade/dance.love
+song_begin: 01 Kaskade & Adam K - Raining (dance.love edit).mp3
+Time: 407
+Artist: Kaskade & Adam K
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & K, Adam
+AlbumArtistSort: Kaskade
+Title: Raining (dance.love edit)
+Album: dance.love
+Track: 1/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/6a2aa2be-9575-4bef-8179-953aa3258031
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 7e665277-5d3c-4655-9678-82305b87c5d6
+mtime: 1420256698
+song_end
+song_begin: 02 Late Night Alumni - Finally Found (Max Vangeli mix).mp3
+Time: 272
+Artist: Late Night Alumni
+AlbumArtist: Kaskade
+ArtistSort: Late Night Alumni
+AlbumArtistSort: Kaskade
+Title: Finally Found (Max Vangeli mix)
+Album: dance.love
+Track: 2/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: c0766f2c-6197-4852-9f47-9dfd71923afa
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 22ebf7de-a141-4a78-a868-05ba765a9370
+mtime: 1420256701
+song_end
+song_begin: 03 Kings of Tomorrow - Finally (Kaskade dance.love mix).mp3
+Time: 286
+Artist: Kings of Tomorrow
+AlbumArtist: Kaskade
+ArtistSort: Kings of Tomorrow
+AlbumArtistSort: Kaskade
+Title: Finally (Kaskade dance.love mix)
+Album: dance.love
+Track: 3/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 8b391c81-dc53-4b0e-aa09-3d01292496e8
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 474607ab-b209-448c-a0df-c44f67696fee
+mtime: 1420256712
+song_end
+song_begin: 04 Sgt. Slick - Everyday (Digital LAB dub).mp3
+Time: 345
+Artist: Sgt. Slick
+AlbumArtist: Kaskade
+ArtistSort: Sgt. Slick
+AlbumArtistSort: Kaskade
+Title: Everyday (Digital LAB dub)
+Album: dance.love
+Track: 4/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 048c0158-5074-4da3-8a31-146049af10ae
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: d4e0adae-3e2a-4612-ba2e-57695594b3e7
+mtime: 1420256713
+song_end
+song_begin: 05 Kaskade - Fire in Your New Shoes (feat. Dragonette) (Sultan & Ned Shepard Electric Daisy remix).mp3
+Time: 322
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Fire in Your New Shoes (feat. Dragonette) (Sultan & Ned Shepard Electric Daisy remix)
+Album: dance.love
+Track: 5/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 12cafa43-184c-4c55-a75f-9c1265c051e9
+mtime: 1420256709
+song_end
+song_begin: 06 Kaskade - Dynasty (feat. Haley) (Dada Life mix).mp3
+Time: 263
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Dynasty (feat. Haley) (Dada Life mix)
+Album: dance.love
+Track: 6/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: a367a919-3d62-4ca9-ad15-7ca1f3612a41
+mtime: 1420256700
+song_end
+song_begin: 07 Kaskade - I Can See (feat. Finn) (dance.love mix).mp3
+Time: 375
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: I Can See (feat. Finn) (dance.love mix)
+Album: dance.love
+Track: 7/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: d50d7437-c465-4fa0-ac29-5e67d1e8c7ca
+mtime: 1420256699
+song_end
+song_begin: 08 Kaskade - It's You It's Me (feat. Joslyn) (Kaskade 2010 remake).mp3
+Time: 285
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: It's You It's Me (feat. Joslyn) (Kaskade 2010 remake)
+Album: dance.love
+Track: 8/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 7679c918-a2db-4275-97ac-89f6c54dd2f7
+mtime: 1420256718
+song_end
+song_begin: 09 David Tort & Norman Doray - Chase the Sun.mp3
+Time: 270
+Artist: David Tort & Norman Doray
+AlbumArtist: Kaskade
+ArtistSort: Tort, David & Doray, Norman
+AlbumArtistSort: Kaskade
+Title: Chase the Sun
+Album: dance.love
+Track: 9/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: beff808a-444c-4f7c-9321-42ae5c69d346/0f6deb7e-c85d-4411-8f80-165dd48b6a58
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: c085769a-b155-4139-bc8f-8e7546f1b926
+mtime: 1420256704
+song_end
+song_begin: 10 Kaskade - Call Out (feat. Mindy Gledhill) (Digital LAB mix).mp3
+Time: 300
+Artist: Kaskade
+AlbumArtist: Kaskade
+ArtistSort: Kaskade
+AlbumArtistSort: Kaskade
+Title: Call Out (feat. Mindy Gledhill) (Digital LAB mix)
+Album: dance.love
+Track: 10/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 0b19fe0d-46a1-4253-8f44-bea74d6054cb
+mtime: 1420256717
+song_end
+song_begin: 11 Samantha James - Waves of Change (Kaskade mix).mp3
+Time: 326
+Artist: Samantha James
+AlbumArtist: Kaskade
+ArtistSort: James, Samantha
+AlbumArtistSort: Kaskade
+Title: Waves of Change (Kaskade mix)
+Album: dance.love
+Track: 11/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 05fd92f7-60d7-4fe9-95e2-7ff597e755db
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 70a332f1-2b41-406c-9537-67353ae7b0dd
+mtime: 1420256717
+song_end
+song_begin: 12 Adrian Lux - Teenage Crime (Axwell & Henrik B Remode).mp3
+Time: 300
+Artist: Adrian Lux
+AlbumArtist: Kaskade
+ArtistSort: Lux, Adrian
+AlbumArtistSort: Kaskade
+Title: Teenage Crime (Axwell & Henrik B Remode)
+Album: dance.love
+Track: 12/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 259bdba7-e6bf-49e3-822e-85ea3d68384c
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 7e6db26a-a788-4ee2-a9be-5f7f0db5836e
+mtime: 1420256711
+song_end
+song_begin: 13 Kaskade & EDX - Don't Stop Dancing (feat. Haley) (Justin Michael & Kemal mix).mp3
+Time: 330
+Artist: Kaskade & EDX
+AlbumArtist: Kaskade
+ArtistSort: Kaskade & EDX
+AlbumArtistSort: Kaskade
+Title: Don't Stop Dancing (feat. Haley) (Justin Michael & Kemal mix)
+Album: dance.love
+Track: 13/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a/abd1b98c-b601-4053-aaee-e3b8f35bcf44
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: 1a0bb07f-b32e-4bf1-a607-d6f4d394c11a
+mtime: 1420256700
+song_end
+song_begin: 14 Alex Gaudino - I'm in Love.mp3
+Time: 328
+Artist: Alex Gaudino
+AlbumArtist: Kaskade
+ArtistSort: Gaudino, Alex
+AlbumArtistSort: Kaskade
+Title: I'm in Love
+Album: dance.love
+Track: 14/14
+Date: 2010-09-28
+Genre: House
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 29ed4a49-fb99-4a5c-8713-609cabe6f34a
+MUSICBRAINZ_ARTISTID: 836d43ae-5086-4f45-9e23-b02edca37653
+MUSICBRAINZ_ALBUMID: 9c74cbb1-fc3a-4ac3-8248-5d7c8270e51f
+MUSICBRAINZ_TRACKID: f7bece99-962d-452f-b6ae-6395429e015d
+mtime: 1420256701
+song_end
+end: Kaskade/dance.love
+end: Kaskade
+directory: Kavinsky
+mtime: 1420256702
+begin: Kavinsky
+directory: OutRun
+mtime: 1420256718
+begin: Kavinsky/OutRun
+song_begin: 01 Kavinsky - Prélude.mp3
+Time: 115
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Prélude
+Album: OutRun
+Track: 1/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 5f94dabf-b4ce-4969-9497-63f936f6307f
+mtime: 1420256710
+song_end
+song_begin: 02 Kavinsky - Blizzard.mp3
+Time: 208
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Blizzard
+Album: OutRun
+Track: 2/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: c7cc6426-061d-4904-946a-d137a7264ee2
+mtime: 1420256714
+song_end
+song_begin: 03 Kavinsky - ProtoVision.mp3
+Time: 206
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: ProtoVision
+Album: OutRun
+Track: 3/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 6785c107-a6dd-4bdc-a11b-3705230f3855
+mtime: 1420256709
+song_end
+song_begin: 04 Kavinsky feat. SebastiAn - Odd Look.mp3
+Time: 290
+Artist: Kavinsky feat. SebastiAn
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky feat. SebastiAn
+AlbumArtistSort: Kavinsky
+Title: Odd Look
+Album: OutRun
+Track: 4/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa/4072139a-699c-4011-9bcc-baae6f959390
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 98b3bebc-fe25-49d9-85d8-9f733b5cbba8
+mtime: 1420256716
+song_end
+song_begin: 05 Kavinsky - Rampage.mp3
+Time: 176
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Rampage
+Album: OutRun
+Track: 5/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 4731df76-bf21-4568-9a1a-6bb0bb2ba087
+mtime: 1420256711
+song_end
+song_begin: 06 Kavinsky feat. Havoc - Suburbia.mp3
+Time: 208
+Artist: Kavinsky feat. Havoc
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky feat. Havoc
+AlbumArtistSort: Kavinsky
+Title: Suburbia
+Album: OutRun
+Track: 6/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa/cbbc6253-efea-4cc7-a279-f3ad348f6744
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 25fb584b-ac89-44c5-96cd-a45eb887a814
+mtime: 1420256711
+song_end
+song_begin: 07 Kavinsky - Testarossa Autodrive.mp3
+Time: 218
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Testarossa Autodrive
+Album: OutRun
+Track: 7/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 7b0da8c5-8ca0-4111-8c8a-45ad57fbc14b
+mtime: 1420256712
+song_end
+song_begin: 08 Kavinsky feat. Lovefoxxx - Nightcall.mp3
+Time: 259
+Artist: Kavinsky feat. Lovefoxxx
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky feat. Lovefoxxx
+AlbumArtistSort: Kavinsky
+Title: Nightcall
+Album: OutRun
+Track: 8/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa/275ab21d-7c57-4aa7-9813-32345dac96d4
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 230d907a-3bbe-4799-a2ba-36a70b93442d
+mtime: 1420256703
+song_end
+song_begin: 09 Kavinsky - Deadcruiser.mp3
+Time: 213
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Deadcruiser
+Album: OutRun
+Track: 9/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 07b5025f-4f81-478d-81a1-96d988b299db
+mtime: 1420256702
+song_end
+song_begin: 10 Kavinsky - Grand Canyon.mp3
+Time: 193
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Grand Canyon
+Album: OutRun
+Track: 10/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 5b86f058-3931-4233-a8a9-3bac314506e2
+mtime: 1420256718
+song_end
+song_begin: 11 Kavinsky feat. Tyson - First Blood.mp3
+Time: 185
+Artist: Kavinsky feat. Tyson
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky feat. Tyson
+AlbumArtistSort: Kavinsky
+Title: First Blood
+Album: OutRun
+Track: 11/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa/de56a202-ae18-4f5f-b743-8685dd5b772f
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 9fbed4dd-8709-420c-bedd-c202335db9b4
+mtime: 1420256713
+song_end
+song_begin: 12 Kavinsky - Roadgame.mp3
+Time: 224
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Roadgame
+Album: OutRun
+Track: 12/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 10040eb3-96f0-4240-a0f0-f7d2f7d91e00
+mtime: 1420256712
+song_end
+song_begin: 13 Kavinsky - Endless.mp3
+Time: 179
+Artist: Kavinsky
+AlbumArtist: Kavinsky
+ArtistSort: Kavinsky
+AlbumArtistSort: Kavinsky
+Title: Endless
+Album: OutRun
+Track: 13/13
+Date: 2013-02-25
+Genre: Dance
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ARTISTID: eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa
+MUSICBRAINZ_ALBUMID: c074efe2-38c7-4ea8-ac27-b7ba5a33607d
+MUSICBRAINZ_TRACKID: 8e72f2ab-31e3-475e-bdfe-e9ea6992c968
+mtime: 1420256702
+song_end
+end: Kavinsky/OutRun
+end: Kavinsky
+directory: Lights
+mtime: 1420256699
+begin: Lights
+directory: Little Machines
+mtime: 1420256709
+begin: Lights/Little Machines
+song_begin: 01 Portal.mp3
+Time: 269
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Portal
+Album: Little Machines
+Track: 1/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 7a26a601-02b4-49d9-b057-ebf698b93e90
+mtime: 1420256698
+song_end
+song_begin: 02 Running With the Boys.mp3
+Time: 253
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Running With the Boys
+Album: Little Machines
+Track: 2/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 24729941-b819-4aba-90f7-7515d69fc919
+mtime: 1420256709
+song_end
+song_begin: 03 Up We Go.mp3
+Time: 172
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Up We Go
+Album: Little Machines
+Track: 3/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: aa38b55b-ed7a-4e78-9060-d9841595c264
+mtime: 1420256698
+song_end
+song_begin: 04 The Same Sea.mp3
+Time: 209
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: The Same Sea
+Album: Little Machines
+Track: 4/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 79fb4c72-563f-4ab8-84b0-90a0e27bf7c0
+mtime: 1420256704
+song_end
+song_begin: 05 Speeding.mp3
+Time: 207
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Speeding
+Album: Little Machines
+Track: 5/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 6e5cb3ff-b84a-4ca0-a858-40e6f022661c
+mtime: 1420256709
+song_end
+song_begin: 06 Muscle Memory.mp3
+Time: 217
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Muscle Memory
+Album: Little Machines
+Track: 6/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 72698e26-8e6c-401b-b754-b8c0a4aa9ebd
+mtime: 1420256708
+song_end
+song_begin: 07 Oil & Water.mp3
+Time: 193
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Oil & Water
+Album: Little Machines
+Track: 7/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 99972d4c-d9d0-422a-bcd6-d2d5aa89cdd9
+mtime: 1420256698
+song_end
+song_begin: 08 Slow Down.mp3
+Time: 204
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Slow Down
+Album: Little Machines
+Track: 8/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: c3f5946b-6655-4239-a7ec-283602d62c27
+mtime: 1420256707
+song_end
+song_begin: 09 Meteorites.mp3
+Time: 202
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Meteorites
+Album: Little Machines
+Track: 9/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 995b7989-2bfc-44ef-b0ae-b377bf164675
+mtime: 1420256704
+song_end
+song_begin: 10 How We Do It.mp3
+Time: 185
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: How We Do It
+Album: Little Machines
+Track: 10/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 5502fdeb-4a5d-4e53-b3d4-c5f3f18621d5
+mtime: 1420256702
+song_end
+song_begin: 11 Don't Go Home Without Me.mp3
+Time: 208
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Don't Go Home Without Me
+Album: Little Machines
+Track: 11/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 1aa5141f-09af-4377-a5ca-d0b0a3b185b3
+mtime: 1420256699
+song_end
+song_begin: 12 Child.mp3
+Time: 230
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Child
+Album: Little Machines
+Track: 12/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: e854b6a7-b953-48ea-899d-9a885a12978b
+mtime: 1420256699
+song_end
+song_begin: 13 Lucky Ones.mp3
+Time: 217
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Lucky Ones
+Album: Little Machines
+Track: 13/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: 1fe65f07-28d0-428b-8ccd-b7527991fc8e
+mtime: 1420256703
+song_end
+song_begin: 14 From All Sides.mp3
+Time: 251
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: From All Sides
+Album: Little Machines
+Track: 14/14
+Date: 2014-09-23
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 4a5e1b61-c2d8-40ae-8a32-4b6f21ceb1af
+MUSICBRAINZ_TRACKID: f4b0a5a6-ccb7-49e1-ad8f-7bb47822aa3f
+mtime: 1420256698
+song_end
+end: Lights/Little Machines
+directory: Siberia
+mtime: 1420256717
+begin: Lights/Siberia
+song_begin: 01 Lights - Siberia.mp3
+Time: 261
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Siberia
+Album: Siberia
+Track: 1/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: e721218a-8fef-480a-b325-7adbbcb5a8d5
+mtime: 1420256698
+song_end
+song_begin: 02 Lights - Where the Fence Is Low.mp3
+Time: 206
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Where the Fence Is Low
+Album: Siberia
+Track: 2/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: f7aee598-afbd-4396-afe4-5688e2cdf62d
+mtime: 1420256701
+song_end
+song_begin: 03 Lights - Toes.mp3
+Time: 202
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Toes
+Album: Siberia
+Track: 3/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 366f7d42-8d2c-443f-aca2-36fa1e732474
+mtime: 1420256701
+song_end
+song_begin: 04 Lights - Banner.mp3
+Time: 220
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Banner
+Album: Siberia
+Track: 4/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: da9ce1d2-c436-462d-82b1-7fd11b186607
+mtime: 1420256703
+song_end
+song_begin: 05 Lights feat. Holy Fuck & Shad - Everybody Breaks a Glass.mp3
+Time: 237
+Artist: Lights feat. Holy Fuck & Shad
+AlbumArtist: Lights
+ArtistSort: Lights feat. Holy Fuck & Shad
+AlbumArtistSort: Lights
+Title: Everybody Breaks a Glass
+Album: Siberia
+Track: 5/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba/4342cf80-7c06-4402-a431-457e77310474/15d58b2e-63f9-454b-845b-397dc443f17f
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 3182e6d0-ab1e-46f4-be46-5b238f8eb0eb
+mtime: 1420256704
+song_end
+song_begin: 06 Lights - Heavy Rope.mp3
+Time: 242
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Heavy Rope
+Album: Siberia
+Track: 6/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: af1f84ff-9008-4bc5-9e9f-7fd7829e7d27
+mtime: 1420256703
+song_end
+song_begin: 07 Lights - Timing Is Everything.mp3
+Time: 198
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Timing Is Everything
+Album: Siberia
+Track: 7/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: fd3e9e6c-7003-4c83-9a16-493a94c22107
+mtime: 1420256709
+song_end
+song_begin: 08 Lights - Peace Sign.mp3
+Time: 203
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Peace Sign
+Album: Siberia
+Track: 8/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 0dc6d99a-66a9-4fba-b072-422e88cabde3
+mtime: 1420256712
+song_end
+song_begin: 09 Lights - Cactus in the Valley.mp3
+Time: 206
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Cactus in the Valley
+Album: Siberia
+Track: 9/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 0041b529-1ac3-4c06-bc1a-7a96638ec5aa
+mtime: 1420256717
+song_end
+song_begin: 10 Lights - Suspension.mp3
+Time: 247
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Suspension
+Album: Siberia
+Track: 10/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: b8e304eb-4c7a-4bc5-8f71-b9a5d4f684d7
+mtime: 1420256708
+song_end
+song_begin: 11 Lights - Flux and Flow.mp3
+Time: 203
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Flux and Flow
+Album: Siberia
+Track: 11/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: bdbc2e2c-5ec1-4776-bae1-d898d2ebb1dc
+mtime: 1420256711
+song_end
+song_begin: 12 Lights - Fourth Dimension.mp3
+Time: 210
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Fourth Dimension
+Album: Siberia
+Track: 12/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 82d38c5c-bd13-4267-8111-6f4bb7e76b18
+mtime: 1420256702
+song_end
+song_begin: 13 Lights - And Counting....mp3
+Time: 284
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: And Counting...
+Album: Siberia
+Track: 13/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 72a01acb-4590-48f0-af0a-ef416aff3225
+mtime: 1420256698
+song_end
+song_begin: 14 Lights - Day One.mp3
+Time: 537
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Day One
+Album: Siberia
+Track: 14/14
+Date: 2011-10-04
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 10d7a02b-c4b4-447a-b283-946eceb5a626
+MUSICBRAINZ_TRACKID: 700a171b-eff3-4c04-aec2-4f80ff0b10d2
+mtime: 1420256708
+song_end
+end: Lights/Siberia
+directory: Siberia (Acoustic)
+mtime: 1420256715
+begin: Lights/Siberia (Acoustic)
+song_begin: 01 Banner (acoustic).mp3
+Time: 232
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Banner (acoustic)
+Album: Siberia (Acoustic)
+Track: 1/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 1f1edb84-d052-4c19-bcb9-36d213512486
+mtime: 1420256711
+song_end
+song_begin: 02 Cactus in the Valley (feat. Owl City) (acoustic).mp3
+Time: 203
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Cactus in the Valley (feat. Owl City) (acoustic)
+Album: Siberia (Acoustic)
+Track: 2/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: ceb50824-0f66-48c0-b857-f059dd801d89
+mtime: 1420256708
+song_end
+song_begin: 03 Where the Fence Is Low (acoustic).mp3
+Time: 217
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Where the Fence Is Low (acoustic)
+Album: Siberia (Acoustic)
+Track: 3/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: b9c9d12b-f11d-4e39-b747-81d9f263b49f
+mtime: 1420256704
+song_end
+song_begin: 04 Siberia (feat. Max Kerman of Arkells) (acoustic).mp3
+Time: 202
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Siberia (feat. Max Kerman of Arkells) (acoustic)
+Album: Siberia (Acoustic)
+Track: 4/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 1149fded-31ea-4a85-a798-c212394fa110
+mtime: 1420256709
+song_end
+song_begin: 05 Suspension (acoustic).mp3
+Time: 217
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Suspension (acoustic)
+Album: Siberia (Acoustic)
+Track: 5/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 8e8ec83f-faca-4be8-a69f-1f6b434462b4
+mtime: 1420256712
+song_end
+song_begin: 06 Toes (acoustic).mp3
+Time: 203
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Toes (acoustic)
+Album: Siberia (Acoustic)
+Track: 6/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 04d4c80f-e422-4fb9-95b6-2bc9fe830bf1
+mtime: 1420256712
+song_end
+song_begin: 07 Peace Sign (feat. Coeur de pirate) (acoustic).mp3
+Time: 180
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Peace Sign (feat. Coeur de pirate) (acoustic)
+Album: Siberia (Acoustic)
+Track: 7/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: bce0607a-a014-453a-a1ba-72707c95fe1c
+mtime: 1420256703
+song_end
+song_begin: 08 Heavy Rope (acoustic).mp3
+Time: 255
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Heavy Rope (acoustic)
+Album: Siberia (Acoustic)
+Track: 8/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: b7ba582f-c31e-46df-ab43-287547222a7a
+mtime: 1420256712
+song_end
+song_begin: 09 Flux and Flow (acoustic).mp3
+Time: 214
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Flux and Flow (acoustic)
+Album: Siberia (Acoustic)
+Track: 9/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 28924a71-8c47-4edf-9a3e-b02a1d2522fa
+mtime: 1420256715
+song_end
+song_begin: 10 ...And Counting (acoustic).mp3
+Time: 196
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: ...And Counting (acoustic)
+Album: Siberia (Acoustic)
+Track: 10/10
+Date: 2013-04-30
+Genre: Pop
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 8daf6abe-d1cf-4f6b-ac49-5839f3837d98
+MUSICBRAINZ_TRACKID: 5b511b00-4bac-4117-8a03-e49b90bd104a
+mtime: 1420256699
+song_end
+end: Lights/Siberia (Acoustic)
+directory: The Listening
+mtime: 1420256718
+begin: Lights/The Listening
+song_begin: 01 Saviour.mp3
+Time: 211
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Saviour
+Album: The Listening
+Track: 1/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 4a2f04bb-0469-4585-81ca-9f5132f965d0
+mtime: 1420256713
+song_end
+song_begin: 03 River.mp3
+Time: 185
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: River
+Album: The Listening
+Track: 3/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 4dc32466-57e4-486e-ba15-0ddf1d236772
+mtime: 1420256713
+song_end
+song_begin: 04 The Listening.mp3
+Time: 238
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: The Listening
+Album: The Listening
+Track: 4/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: bdcfb1ab-3b7d-472e-b127-4d42ced2237f
+mtime: 1420256699
+song_end
+song_begin: 05 Ice.mp3
+Time: 192
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Ice
+Album: The Listening
+Track: 5/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 3466a5d3-f222-4e88-8095-2c421f1231fe
+mtime: 1420256714
+song_end
+song_begin: 06 Pretend.mp3
+Time: 198
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Pretend
+Album: The Listening
+Track: 6/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 555b862d-98b1-4b83-854f-ef28e56f0453
+mtime: 1420256715
+song_end
+song_begin: 07 The Last Thing on Your Mind.mp3
+Time: 197
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: The Last Thing on Your Mind
+Album: The Listening
+Track: 7/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: a23c36d6-c80d-4b23-bd19-d20172af0540
+mtime: 1420256702
+song_end
+song_begin: 08 Second Go.mp3
+Time: 199
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Second Go
+Album: The Listening
+Track: 8/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: f66b0a3d-f64c-445d-b1c7-e030b480b141
+mtime: 1420256718
+song_end
+song_begin: 09 February Air.mp3
+Time: 231
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: February Air
+Album: The Listening
+Track: 9/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: b3782b81-5de6-4b60-9b6e-360aa27ec243
+mtime: 1420256709
+song_end
+song_begin: 10 Face Up.mp3
+Time: 205
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Face Up
+Album: The Listening
+Track: 10/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 1acf5556-19db-44d1-9805-0d2b6c7b348b
+mtime: 1420256707
+song_end
+song_begin: 11 Lions!.mp3
+Time: 199
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Lions!
+Album: The Listening
+Track: 11/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 93c0781a-eadf-42c6-bbfa-72cfdd401e30
+mtime: 1420256698
+song_end
+song_begin: 12 Quiet.mp3
+Time: 192
+Artist: Lights
+AlbumArtist: Lights
+ArtistSort: Lights
+AlbumArtistSort: Lights
+Title: Quiet
+Album: The Listening
+Track: 12/13
+Date: 2009-10-02
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ARTISTID: efdbd3b1-2d20-4cea-af46-dffbc1e7daba
+MUSICBRAINZ_ALBUMID: 86c683d4-e54c-4596-9b8c-b4a61943ac9c
+MUSICBRAINZ_TRACKID: 6a8b78b9-5ff3-4de7-8316-0d1ffc5400f6
+mtime: 1420256698
+song_end
+end: Lights/The Listening
+end: Lights
+directory: Paramore
+mtime: 1420256699
+begin: Paramore
+directory: All We Know Is Falling
+mtime: 1420256714
+begin: Paramore/All We Know Is Falling
+song_begin: 01 All We Know.mp3
+Time: 194
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: All We Know
+Album: All We Know Is Falling
+Track: 1/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 74aadac1-cd42-4036-a319-59e6a1db89c3
+mtime: 1420256701
+song_end
+song_begin: 02 Pressure.mp3
+Time: 186
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Pressure
+Album: All We Know Is Falling
+Track: 2/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 0547edb2-3eea-4b90-9b18-26dcfc101521
+mtime: 1420256707
+song_end
+song_begin: 03 Emergency.mp3
+Time: 240
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Emergency
+Album: All We Know Is Falling
+Track: 3/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: be5eb70e-8a4e-492d-8269-032e1b66d30d
+mtime: 1420256699
+song_end
+song_begin: 04 Brighter.mp3
+Time: 223
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Brighter
+Album: All We Know Is Falling
+Track: 4/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 60a82183-edda-4c9e-ab3d-22703995ac8d
+mtime: 1420256712
+song_end
+song_begin: 05 Here We Go Again.mp3
+Time: 226
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Here We Go Again
+Album: All We Know Is Falling
+Track: 5/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 79c912a5-a539-482b-8659-298f7b35c669
+mtime: 1420256714
+song_end
+song_begin: 06 Never Let This Go.mp3
+Time: 221
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Never Let This Go
+Album: All We Know Is Falling
+Track: 6/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 9b6ccd6e-5406-48de-bfb9-158f6cfb1e0c
+mtime: 1420256707
+song_end
+song_begin: 07 Whoa.mp3
+Time: 202
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Whoa
+Album: All We Know Is Falling
+Track: 7/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 3a000fbf-c95f-418d-abd6-5d493e5c2d4f
+mtime: 1420256708
+song_end
+song_begin: 08 Conspiracy.mp3
+Time: 222
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Conspiracy
+Album: All We Know Is Falling
+Track: 8/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 87b5fada-6b77-4655-bcdd-6b28c7de00e6
+mtime: 1420256703
+song_end
+song_begin: 09 Franklin.mp3
+Time: 199
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Franklin
+Album: All We Know Is Falling
+Track: 9/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 458a0f69-fd5e-4f05-97ec-b644d9f51b06
+mtime: 1420256713
+song_end
+song_begin: 10 My Heart.mp3
+Time: 239
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: My Heart
+Album: All We Know Is Falling
+Track: 10/10
+Date: 2005-07-26
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: eebb1994-983c-4276-9f0a-55abac48d057
+MUSICBRAINZ_TRACKID: 26d89fd3-3d42-459f-aa4f-cfdcc70e5545
+mtime: 1420256699
+song_end
+end: Paramore/All We Know Is Falling
+directory: Paramore
+mtime: 1420256715
+begin: Paramore/Paramore
+song_begin: 01 Fast in My Car.mp3
+Time: 223
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Fast in My Car
+Album: Paramore
+Track: 1/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 7eabee6a-6a46-42ae-8d04-0684f8a99c61
+mtime: 1420256713
+song_end
+song_begin: 02 Now.mp3
+Time: 247
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Now
+Album: Paramore
+Track: 2/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 955a0c11-32cc-47e1-b81f-9a0e647b1156
+mtime: 1420256711
+song_end
+song_begin: 03 Grow Up.mp3
+Time: 231
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Grow Up
+Album: Paramore
+Track: 3/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: bfc5efb1-da58-4881-8c70-c7f37c00747a
+mtime: 1420256705
+song_end
+song_begin: 04 Daydreaming.mp3
+Time: 271
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Daydreaming
+Album: Paramore
+Track: 4/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 55a61384-8e8d-4513-8182-58c2ce1b1bdc
+mtime: 1420256705
+song_end
+song_begin: 05 Interlude_ Moving On.mp3
+Time: 90
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Interlude: Moving On
+Album: Paramore
+Track: 5/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: f0cb16fa-74fc-4178-a262-42302b5bed17
+mtime: 1420256704
+song_end
+song_begin: 06 Ain't It Fun.mp3
+Time: 297
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Ain't It Fun
+Album: Paramore
+Track: 6/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: f9054a16-05ae-4eea-ac20-a71af04de7c9
+mtime: 1420256702
+song_end
+song_begin: 07 Part II.mp3
+Time: 281
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Part II
+Album: Paramore
+Track: 7/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 09c86064-63c3-466c-88fe-f83ec1d37644
+mtime: 1420256703
+song_end
+song_begin: 08 Last Hope.mp3
+Time: 310
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Last Hope
+Album: Paramore
+Track: 8/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 52b32009-bebc-4ca4-8c77-494648a917f9
+mtime: 1420256709
+song_end
+song_begin: 09 Still Into You.mp3
+Time: 216
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Still Into You
+Album: Paramore
+Track: 9/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: e05db1d3-52c4-4228-90b2-31b271933c29
+mtime: 1420256699
+song_end
+song_begin: 10 Anklebiters.mp3
+Time: 138
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Anklebiters
+Album: Paramore
+Track: 10/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 6dbeebc1-ea78-4a4d-b6bc-3ad20cab2543
+mtime: 1420256709
+song_end
+song_begin: 11 Interlude_ Holiday.mp3
+Time: 70
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Interlude: Holiday
+Album: Paramore
+Track: 11/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: e5e5ae22-9144-4145-b7e2-3179b2378894
+mtime: 1420256710
+song_end
+song_begin: 12 Proof.mp3
+Time: 195
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Proof
+Album: Paramore
+Track: 12/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: fec9cfb1-1928-4fb2-935d-da9b557cd88b
+mtime: 1420256698
+song_end
+song_begin: 13 Hate to See Your Heart Break.mp3
+Time: 309
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Hate to See Your Heart Break
+Album: Paramore
+Track: 13/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: e928c365-7095-492d-bba1-ab9a95f8373b
+mtime: 1420256707
+song_end
+song_begin: 14 (One of Those) Crazy Girls.mp3
+Time: 213
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: (One of Those) Crazy Girls
+Album: Paramore
+Track: 14/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: e6d24b42-04c5-400c-a7e6-7323723b17ce
+mtime: 1420256703
+song_end
+song_begin: 15 Interlude_ I'm Not Angry Anymore.mp3
+Time: 53
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Interlude: I'm Not Angry Anymore
+Album: Paramore
+Track: 15/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: b516d0ba-e946-4d35-a4b6-00d46d3c8967
+mtime: 1420256712
+song_end
+song_begin: 16 Be Alone.mp3
+Time: 220
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Be Alone
+Album: Paramore
+Track: 16/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 731d0023-6669-4bf7-b962-d84af9e9e90e
+mtime: 1420256713
+song_end
+song_begin: 17 Future.mp3
+Time: 473
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Future
+Album: Paramore
+Track: 17/17
+Date: 2013-04-05
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 846ba3b2-31ab-42a8-ad1b-837cd6da0392
+MUSICBRAINZ_TRACKID: 71e70abf-44bd-4cc3-861f-477eaaf485bc
+mtime: 1420256701
+song_end
+song_begin: 18 Native Tongue.mp3
+Time: 192
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Native Tongue
+Album: Paramore
+Track: 18/19
+Date: 2013-04-10
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 0b2345b3-1984-4e96-b60f-427827b9716a
+MUSICBRAINZ_TRACKID: 0995d7cf-1158-4aa3-9990-4dae5508f6c6
+mtime: 1420256707
+song_end
+song_begin: 19 Escape Route.mp3
+Time: 177
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Escape Route
+Album: Paramore
+Track: 19/19
+Date: 2013-04-10
+Genre: Alternative Rock / Pop-Punk
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 0b2345b3-1984-4e96-b60f-427827b9716a
+MUSICBRAINZ_TRACKID: 0a36c119-c23d-42ca-b997-90a4b8a26233
+mtime: 1420256715
+song_end
+end: Paramore/Paramore
+directory: RIOT!
+mtime: 1420256690
+begin: Paramore/RIOT!
+song_begin: 01 For a Pessimist, I'm Pretty Optimistic.mp3
+Time: 228
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: For a Pessimist, I'm Pretty Optimistic
+Album: RIOT!
+Track: 1/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 66ce6a30-6f54-4598-8cd4-84e190ac7a6c
+mtime: 1420256690
+song_end
+song_begin: 02 That's What You Get.mp3
+Time: 221
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: That's What You Get
+Album: RIOT!
+Track: 2/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: d7d648e6-0b85-47bb-a580-3eef7bdd5541
+mtime: 1420256689
+song_end
+song_begin: 03 Hallelujah.mp3
+Time: 204
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Hallelujah
+Album: RIOT!
+Track: 3/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 45e4cdfc-13a1-4ce2-927e-d84838f70f42
+mtime: 1420256690
+song_end
+song_begin: 04 Misery Business.mp3
+Time: 212
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Misery Business
+Album: RIOT!
+Track: 4/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 26bc1124-b228-401e-8f38-5cea1625d8c2
+mtime: 1420256689
+song_end
+song_begin: 05 When It Rains.mp3
+Time: 215
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: When It Rains
+Album: RIOT!
+Track: 5/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 7d872311-33d9-4c44-bd68-66e50d8d1438
+mtime: 1420256690
+song_end
+song_begin: 06 Let the Flames Begin.mp3
+Time: 198
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Let the Flames Begin
+Album: RIOT!
+Track: 6/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 3438eb24-e127-4b2f-8192-03346ce62bd7
+mtime: 1420256690
+song_end
+song_begin: 07 Miracle.mp3
+Time: 210
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Miracle
+Album: RIOT!
+Track: 7/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: d4a4c7ba-580f-4638-b9c9-1f2f29790c44
+mtime: 1420256690
+song_end
+song_begin: 08 crushcrushcrush.mp3
+Time: 189
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: crushcrushcrush
+Album: RIOT!
+Track: 8/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: ff1b9745-11e6-4e65-ba05-81b8ee1f5555
+mtime: 1420256690
+song_end
+song_begin: 09 We Are Broken.mp3
+Time: 218
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: We Are Broken
+Album: RIOT!
+Track: 9/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 3fae3373-14f7-47aa-aa85-12bcaf2d6c22
+mtime: 1420256690
+song_end
+song_begin: 10 Fences.mp3
+Time: 199
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Fences
+Album: RIOT!
+Track: 10/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 398c893c-29a8-4225-851c-1b530e64b5fd
+mtime: 1420256689
+song_end
+song_begin: 11 Born for This.mp3
+Time: 239
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Born for This
+Album: RIOT!
+Track: 11/11
+Date: 2007-06-12
+Genre: Pop-Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 946b42fd-e821-4b69-88ec-eeaec004c0ad
+MUSICBRAINZ_TRACKID: 3c084aa8-bb01-4ea7-81a9-ff11c8e18383
+mtime: 1420256690
+song_end
+end: Paramore/RIOT!
+directory: brand new eyes
+mtime: 1420256718
+begin: Paramore/brand new eyes
+song_begin: 01 Careful.mp3
+Time: 230
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Careful
+Album: brand new eyes
+Track: 1/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 06da224e-b00d-43d8-88d0-67d056030257
+mtime: 1420256714
+song_end
+song_begin: 02 Ignorance.mp3
+Time: 219
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Ignorance
+Album: brand new eyes
+Track: 2/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: f87dc257-fa1f-41d4-b630-fd36f9175c3e
+mtime: 1420256714
+song_end
+song_begin: 03 Playing God.mp3
+Time: 183
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Playing God
+Album: brand new eyes
+Track: 3/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: bbc1a87b-2ca1-4c28-b8d0-ba7f9420719c
+mtime: 1420256718
+song_end
+song_begin: 04 Brick by Boring Brick.mp3
+Time: 254
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Brick by Boring Brick
+Album: brand new eyes
+Track: 4/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 9aee10d7-f2e5-4b0f-8b4e-afa61f5185a9
+mtime: 1420256702
+song_end
+song_begin: 05 Turn It Off.mp3
+Time: 260
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Turn It Off
+Album: brand new eyes
+Track: 5/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 42a6789a-c991-4266-82f4-1964bb65d587
+mtime: 1420256709
+song_end
+song_begin: 06 The Only Exception.mp3
+Time: 268
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: The Only Exception
+Album: brand new eyes
+Track: 6/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: d771c353-1ddf-4271-96f7-d36a703a3717
+mtime: 1420256708
+song_end
+song_begin: 07 Feeling Sorry.mp3
+Time: 185
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Feeling Sorry
+Album: brand new eyes
+Track: 7/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: c96ba8c6-8fe0-4d6d-90bb-390bf5e35cc4
+mtime: 1420256712
+song_end
+song_begin: 08 Looking Up.mp3
+Time: 209
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Looking Up
+Album: brand new eyes
+Track: 8/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 62814a49-f656-44ea-be58-533c190a902f
+mtime: 1420256709
+song_end
+song_begin: 09 Where the Lines Overlap.mp3
+Time: 199
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Where the Lines Overlap
+Album: brand new eyes
+Track: 9/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 9fe12bce-0ae8-4274-b137-71622b73ba48
+mtime: 1420256712
+song_end
+song_begin: 10 Misguided Ghosts.mp3
+Time: 182
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: Misguided Ghosts
+Album: brand new eyes
+Track: 10/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: 1cc7451f-a4e6-4b5a-ad27-e5206e1f9d42
+mtime: 1420256698
+song_end
+song_begin: 11 All I Wanted.mp3
+Time: 228
+Artist: Paramore
+AlbumArtist: Paramore
+ArtistSort: Paramore
+AlbumArtistSort: Paramore
+Title: All I Wanted
+Album: brand new eyes
+Track: 11/13
+Date: 2009-09-25
+Genre: Alternative & Punk
+Composer: Hayley Williams,Josh Farro
+Disc: 1/1
+MUSICBRAINZ_ALBUMARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ARTISTID: 44cf61b8-5197-448a-b82b-cef6ee89fac5
+MUSICBRAINZ_ALBUMID: 6ab46980-103c-3669-9c84-897d79123fe0
+MUSICBRAINZ_TRACKID: c5b9209b-a181-4d62-bbca-cd5f6288410b
+mtime: 1420256698
+song_end
+end: Paramore/brand new eyes
+end: Paramore
+song_begin: 00 Anthonio.mp3
+Time: 252
+Artist: Annie
+Title: Anthonio
+Track: 0
+mtime: 1420177872
+song_end
