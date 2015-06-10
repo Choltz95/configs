@@ -1,0 +1,44 @@
+# i3status configuration file.
+# see "man i3status" for documentation.
+
+# It is important that this file is edited as UTF-8.
+# The following line should contain a sharp s:
+# ß
+# If the above line is not correctly displayed, fix your editor first!
+
+general {
+        colors = true
+        interval = 5
+        color_good = '#568081'
+        color_degraded = '#b58900'
+        color_bad = '#B14D4C'
+}
+
+order += "disk /home"
+order += "cpu_usage 0"
+order += "load"
+order += "battery 0"
+order += "tztime local"
+
+battery 0 {
+        format = "%status %percentage %remaining"
+        last_full_capacity = true
+        low_threshold = 10
+}
+
+cpu_usage {
+	format = "CPU: %usage"
+}
+
+tztime local {
+        format = "%d/%m %I:%M %p"
+}
+
+load {
+        format = "%1min"
+}
+
+disk "/home" {
+        format = "DISK: %free"
+}
+
