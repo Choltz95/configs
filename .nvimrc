@@ -1,3 +1,21 @@
+    " autocomplete parenthesis, brackets and braces
+    inoremap ( ()<Left>
+    inoremap [ []<Left>
+    inoremap { {}<Left>
+    
+    " autocomplete quotes
+    inoremap	'  '<Esc>:call QuoteInsertionWrapper("'")<CR>a
+    inoremap	"  "<Esc>:call QuoteInsertionWrapper('"')<CR>a
+    inoremap	`  `<Esc>:call QuoteInsertionWrapper('`')<CR>a
+    
+    function! QuoteInsertionWrapper (quote)
+    let col = col('.')
+        if getline('.')[col-2] !~ '\k' && getline('.')[col] !~ '\k'
+          normal ax
+          exe "normal r".a:quote."h"
+        end
+    endfunction 
+ 
     " do not make vim compatible with vi.
     set nocompatible
 
