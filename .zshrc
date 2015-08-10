@@ -7,6 +7,14 @@ export ZSH=/home/whiterabbit/.oh-my-zsh
 # time that oh-my-zsh is loaded.
 ZSH_THEME="minimal"
 
+# CS function to cd and ls
+function cs () {
+  cd "$@" && ls
+}
+
+# call tao.py
+python Documents/scripts/tao.py
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
